@@ -1,468 +1,458 @@
 {
     "navigation": {
-        "home": "India",
-        "about": "Tentang",
-        "projects": "Proyek",
-        "experience": "Pengalaman",
-        "skills": "Keahlian",
-        "achievements": "Pencapaian",
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "experience": "Experience",
+        "skills": "Skills",
+        "achievements": "Achievements",
         "blog": "Blog",
-        "gallery": "Galeri",
-        "contact": "Kontak",
+        "gallery": "Gallery",
+        "contact": "Contact",
         "resume": "Resume",
-        "tools": "Peralatan",
+        "tools": "Tools",
         "menu": {
-            "achievements": "Pencapaian",
-            "achievementsDesc": "Sertifikasi, penghargaan, dan pencapaian",
-            "skills": "Keahlian",
-            "skillsDesc": "Teknologi dan alat yang saya gunakan",
-            "experience": "Pengalaman",
-            "experienceDesc": "Perjalanan profesional dan pertumbuhan saya",
-            "projects": "Proyek",
-            "projectsDesc": "Pameran semua karya saya",
+            "achievements": "Achievements",
+            "achievementsDesc": "Certifications, awards, and milestones",
+            "skills": "Skills",
+            "skillsDesc": "Technologies and tools I use",
+            "experience": "Experience",
+            "experienceDesc": "My professional journey and growth",
+            "projects": "Projects",
+            "projectsDesc": "Showcase of all my work",
             "blog": "Blog",
-            "blogDesc": "Pemikiran dan eksplorasi teknis",
-            "gallery": "Galeri",
-            "galleryDesc": "Arsip visual media dan proyek"
+            "blogDesc": "Thoughts and technical explorations",
+            "gallery": "Gallery",
+            "galleryDesc": "Visual archive of media and projects"
         },
         "shortcuts": {
-            "volume1": "Volume I: Identitas",
-            "volume2": "Volume II: Urutan Profesional",
-            "volume3": "Volume III: Matriks Kompetensi",
-            "volume4": "Volume IV: Output Kreatif",
-            "preview": "Mode Pratinjau",
+            "volume1": "Volume I: Identity",
+            "volume2": "Volume II: Professional Sequence",
+            "volume3": "Volume III: Competency Matrix",
+            "volume4": "Volume IV: Creative Output",
+            "preview": "Preview Mode",
             "idRef": "ID_REF"
         }
     },
     "hero": {
-        "greeting": "Selamat datang di ruang digital saya",
-        "subtitle": "Full Stack Developer • AI Engineer • Data Scientist",
+        "greeting": "Welcome to my digital space",
+        "subtitle": "Full Stack Developer • Hackathon Team Lead • System Builder",
         "cta": {
-            "primary": "Jelajahi Proyek",
-            "secondary": "Hubungi Saya",
-            "exploreMore": "Jelajahi Lebih Lanjut"
+            "primary": "Explore Projects",
+            "secondary": "Contact Me",
+            "exploreMore": "Explore More"
         },
-        "badge": "Terbuka untuk peluang",
-        "scroll": "Gulir ke Bawah",
-        "role": "Software Engineer",
-        "description": "Membangun sistem cerdas di persimpangan <span class='text-primary font-semibold'>AI</span>, <span class='text-secondary font-semibold'>Rekayasa</span>, dan <span class='text-accent font-semibold'>Arsitektur Skalabel</span>."
+        "badge": "Open to opportunities",
+        "scroll": "Scroll Down",
+        "role": "Full Stack Developer",
+        "description": "Building reliable systems at the intersection of <span class='text-primary font-semibold'>Full Stack Engineering</span>, <span class='text-secondary font-semibold'>Team Leadership</span>, and <span class='text-accent font-semibold'>Scalable Architecture</span>."
     },
     "about": {
-        "title": "Tentang Saya",
-        "subtitle": "Tech Explorer & Problem Solver",
-        "description": "Seorang tech explorer yang bersemangat dengan spesialisasi dalam Full Stack Development, Artificial Intelligence, dan Data Science. Saat ini sedang mendalami AI Agents dan teknologi Blockchain.",
+        "title": "About Me",
+        "subtitle": "Builder & Problem Solver",
+        "description": "A developer passionate about building real-world full-stack systems — from business management platforms and hospital coordination tools to hackathon apps built under pressure. I lead team SyntaxSquad across hackathon competitions.",
         "stats": {
-            "experience": "Tahun Belajar",
-            "projects": "Proyek Selesai",
-            "certifications": "Sertifikasi",
-            "competitions": "Kompetisi"
+            "experience": "Years Building",
+            "projects": "Projects Completed",
+            "certifications": "Certifications",
+            "competitions": "Hackathons"
         },
-        "identity": "Tautan Identitas Dibuat",
-        "architecting": "Merancang",
-        "digitalReality": "Realitas Digital",
+        "identity": "Identity Link Established",
+        "architecting": "Architecting",
+        "digitalReality": "Digital Reality",
         "leadIn": {
-            "label": "APA YANG SAYA LAKUKAN",
-            "tagline": "FOKUS INTI",
-            "headlineAI": "AI Terapan.",
-            "headlineData": "Data Skalabel.",
-            "headlineSoftware": "Rekayasa Perangkat Lunak Tangguh",
-            "thesis": "Saya membangun sistem cerdas dan <span class='text-primary italic font-serif-elegant font-normal'>infrastruktur data</span> yang membuatnya handal dalam skala besar.",
-            "scope": "Berfokus pada model prediktif, pemrosesan data yang dioptimalkan, dan pipeline RAG yang dirancang untuk lingkungan produksi dan performa terukur.",
-            "bridging": "Menghubungkan lab dan sistem langsung.",
-            "integration": "Selain model, saya merancang ekosistem full-stack: backend yang aman, arsitektur data yang kuat, dan pipeline yang skalabel.",
-            "signature": "Azril",
-            "role": "AI, Data & Software Engineer",
-            "aboutMe": "Tentang Saya",
-            "scroll": "Scroll untuk Jelajah",
-            "shortStory": "Cerita Singkat Saya"
+            "label": "WHAT I DO",
+            "tagline": "CORE FOCUS",
+            "headlineAI": "Reliable Systems.",
+            "headlineData": "Scalable Architecture.",
+            "headlineSoftware": "Resilient Software Engineering",
+            "thesis": "I build <span class='text-primary italic font-serif-elegant font-normal'>full-stack platforms</span> that stay reliable at scale, from idea to production.",
+            "scope": "Focused on business management systems, real-time coordination, and automated workflows engineered for production environments and measurable performance.",
+            "bridging": "Connecting hackathon ideas with real production systems.",
+            "integration": "Beyond features, I design full-stack ecosystems: secure backends, robust databases, and scalable pipelines.",
+            "signature": "Aditya",
+            "role": "Full Stack Developer & Team Lead",
+            "aboutMe": "About Me",
+            "scroll": "Scroll to Explore",
+            "shortStory": "My Short Story"
         },
         "coreEngineering": {
-            "label": "Rekayasa Inti",
-            "title": "<span class='text-primary italic font-serif font-light lowercase'>stack</span> yang Terbukti. <br /> <span class='italic font-serif font-light text-foreground'>hasil</span> yang Terukur.",
-            "p1": "Saya mengembangkan sistem AI terapan menggunakan TensorFlow, Scikit-learn, dan LangChain, menyusun alur kerja dan mengekspos model sebagai layanan melalui Flask dan FastAPI.",
-            "p2": "Diintegrasikan ke dalam aplikasi full-stack dengan Next.js, Express.js, dan Spring Boot, didukung oleh PostgreSQL dan Prisma ORM.",
-            "p3": "Semua proyek menggunakan kontrol versi yang disiplin, kontainerisasi Docker, dan dibangun untuk penerapan produksi yang stabil.",
-            "gpa": "IPK Akademik",
-            "projects": "Proyek yang Dibangun",
-            "years": "Tahun Pengalaman"
+            "label": "Core Engineering",
+            "title": "Proven <span class='text-primary italic font-serif font-light lowercase'>stack</span>. <br /> Measurable <span class='italic font-serif font-light text-foreground'>results</span>.",
+            "p1": "I build full-stack applications using React, SvelteKit, and Node.js/Express, structuring workflows and exposing features as secure, well-organized services.",
+            "p2": "Integrated with databases such as MySQL, PostgreSQL/Supabase, and Google Sheets (via Google Apps Script) depending on project needs.",
+            "p3": "Every project follows disciplined version control, structured documentation (PRD, architecture, phases), and is built for stable production deployment.",
+            "gpa": "Active Projects",
+            "projects": "Projects Built",
+            "years": "Years of Experience"
         },
         "emergingResearch": {
-            "label": "Fase Eksplorasi",
-            "title": "RISET YANG MUNCUL <span class='italic font-serif font-light text-primary lowercase'>&</span> EKSPANSI",
+            "label": "Exploration Phase",
+            "title": "EXPLORATION <span class='italic font-serif font-light text-primary lowercase'>&</span> EXPANSION",
             "agentic": {
-                "title": "SISTEM AI AGENTIK",
-                "desc": "Menjelajahi agen otonom, orkestrasi multi-agen, dan kerangka kerja penalaran — memperluas fondasi AI terapan saya ke dalam sistem pengambilan keputusan mandiri."
+                "title": "AI-POWERED TOOLING",
+                "desc": "Exploring LLM-based chatbots and automated assistants to enhance the user experience within the full-stack applications I build."
             },
             "web3": {
-                "title": "WEB3 & BLOCKCHAIN",
-                "desc": "Membangun aplikasi terdesentralisasi dengan Solidity dan Hardhat. Saat ini sedang mengerjakan pengembangan smart contract melalui proyek-proyek seperti Web3 Guestbook DApp di Ethereum."
+                "title": "REAL-TIME SYSTEMS",
+                "desc": "Building real-time coordination and biometric systems — including hardware integration (fingerprint bridge) with cloud backends."
             }
         },
         "profile": {
-            "title": "Membangun <br class='hidden lg:block' /> Sistem Skalabel <br /> Tempat <span class='text-primary italic font-serif font-light lowercase'>Kecerdasan</span> <br /> Bertemu Rekayasa.",
-            "narrativeLabel": "Narasi Inti",
-            "narrative": "Sebagai mahasiswa Teknologi Informasi yang berfokus pada Kecerdasan Buatan dan Rekayasa Perangkat Lunak, saya membangun sistem yang menjembatani fondasi riset dengan implementasi siap produksi.",
-            "narrative2": "Pekerjaan saya memadukan pemikiran algoritmik, rekayasa backend, dan arsitektur yang skalabel untuk menghadirkan solusi yang cerdas, andal, dan siap digunakan di dunia nyata.",
+            "title": "Building <br class='hidden lg:block' /> Scalable Systems <br /> Where <span class='text-primary italic font-serif font-light lowercase'>Speed</span> <br /> Meets Reliability.",
+            "narrativeLabel": "Core Narrative",
+            "narrative": "As a developer and hackathon team lead, I build systems that bridge fast ideas with production-ready implementation.",
+            "narrative2": "My work blends structured thinking, backend engineering, and scalable architecture to deliver solutions that are reliable and ready for the real world.",
             "pillars": {
                 "reliable": {
                     "title": "Robust by Design",
-                    "desc": "Direkayasa untuk keandalan di bawah skala dan tekanan operasional."
+                    "desc": "Engineered for reliability under scale and operational pressure."
                 },
                 "optimized": {
-                    "title": "Siap Produksi",
-                    "desc": "Dari prototipe hingga deployment dengan disiplin rekayasa."
+                    "title": "Production Ready",
+                    "desc": "From hackathon prototype to deployment with engineering discipline."
                 },
                 "maintainable": {
-                    "title": "Dirancang untuk Evolusi",
-                    "desc": "Didesain untuk tumbuh, beradaptasi, dan mempertahankan pengembangan sistem jangka panjang."
+                    "title": "Built for Evolution",
+                    "desc": "Designed to grow, adapt, and sustain long-term system development."
                 },
                 "evolvable": {
-                    "title": "Kecerdasan Berbasis Data",
-                    "desc": "Keputusan didukung oleh model, metrik, dan performa yang terukur."
+                    "title": "Documentation First",
+                    "desc": "Every project starts with a clear PRD, architecture, and phased plan before code is written."
                 }
             }
         },
         "closing": {
             "experience": {
-                "label": "LATAR BELAKANG",
-                "title1": "PENGALAMAN",
-                "title2": "UTAMA",
-                "viewMore": "Semua Pengalaman"
+                "label": "BACKGROUND",
+                "title1": "KEY",
+                "title2": "EXPERIENCE",
+                "viewMore": "All Experience"
             },
             "projects": {
-                "label": "PORTOFOLIO",
-                "title1": "PROYEK",
-                "title2": "UNGGULAN",
-                "viewMore": "Semua Proyek"
+                "label": "PORTFOLIO",
+                "title1": "FEATURED",
+                "title2": "PROJECTS",
+                "viewMore": "All Projects"
             },
             "experiencesList": [
                 {
-                    "company": "Dicoding Academy",
-                    "role": "PENGULAS KODE MACHINE LEARNING",
-                    "desc": "Evaluasi teknis dan penjaminan kualitas pengajuan proyek ML. Memvalidasi kebenaran logis, efisiensi, dan menegakkan praktik terbaik industri bagi peserta."
+                    "company": "Codeline AI",
+                    "role": "FULL STACK DEVELOPER",
+                    "desc": "Built and maintain an EBMS (Employee Business Management System) on Google Apps Script — covering attendance, leave, salary slips, shift rosters, expense claims, and recruitment with email automation and e-signature."
                 },
                 {
-                    "company": "Advanced Software Engineering Laboratory",
-                    "role": "MAGANG ANALIS SISTEM",
-                    "desc": "Menerjemahkan persyaratan kompleks ke dalam dokumentasi SRS dan merancang arsitektur sistem menggunakan diagram UML. Rekayasa kolaboratif yang berfokus pada desain perangkat lunak yang kuat."
+                    "company": "SyntaxSquad (Hackathon Team)",
+                    "role": "TEAM LEAD",
+                    "desc": "Lead a team across multiple hackathon competitions, including the Urban Infrastructure Cascade Simulator — architecting the system, splitting team tasks, and preparing documentation and judge Q&A."
                 },
                 {
-                    "company": "Cyber Physical System Laboratory",
-                    "role": "ASISTEN PENELITI (KONTRAK)",
-                    "desc": "Mengembangkan produk riset berbasis AI dan merancang materi pembelajaran untuk Deep Learning and Computer Vision. Berkontribusi dalam inisiatif riset kolaboratif dalam sistem cerdas."
-                },
-                {
-                    "company": "Pusat Riset HUMIC Engineering",
-                    "role": "MAGANG PENGEMBANG AI",
-                    "desc": "Membangun model deteksi serangan berbasis Transformer untuk aplikasi keamanan siber. Mengelola dataset skala besar melalui pipeline ML penuh — dari prapemprosesan hingga optimasi hiperparameter."
-                },
-                {
-                    "company": "Cyber Physical System Laboratory",
-                    "role": "MAGANG PENELITI COMPUTER VISION",
-                    "desc": "Pengembangan model cerdas end-to-end menggunakan arsitektur Deep Learning terkini. Menerapkan algoritma ML untuk aplikasi AIoT dunia nyata termasuk sistem estimasi pose manusia."
+                    "company": "Freelance & Campus Projects",
+                    "role": "FULL STACK DEVELOPER",
+                    "desc": "Developed several management platforms: MedFlow (hospital resource coordination), Lifeline (blood donation camp management), and GymPro (gym management with biometric attendance)."
                 }
             ],
             "projectsList": [
                 {
-                    "title": "Creative Portfolio Website",
-                    "desc": "Portofolio modern dan beranimasi dengan elemen 3D, interaksi simulasi fisika, dan efek warp berbasis shader. Direkayasa untuk performa tinggi dan pengalaman pengguna yang imersif."
+                    "title": "Urban Infrastructure Cascade Simulator",
+                    "desc": "A cascading urban infrastructure failure simulator built for hackathon problem CF26-S-03 by team SyntaxSquad — featuring a root-cause tracing engine."
                 },
                 {
-                    "title": "SNBTIn - Platform Persiapan SNBT 2025",
-                    "desc": "Platform EdTech terkemuka di Indonesia untuk persiapan ujian. Menampilkan ekosistem pembelajaran komprehensif dengan video interaktif, latihan soal, dan analitik real-time."
+                    "title": "MedFlow",
+                    "desc": "A hospital resource coordination platform built with SvelteKit and Node.js/Express on Supabase/PostgreSQL — including conflict management and audit trail UI."
                 },
                 {
-                    "title": "TerraFlow Platform",
-                    "desc": "Solusi IoT perusahaan untuk pertanian presisi. Node sensor ESP32 berkomunikasi langsung dengan Firebase melalui backend Go (Gin), dengan dashboard Next.js untuk monitoring real-time dan kontrol aktuator."
+                    "title": "Naadify",
+                    "desc": "A glassmorphism music player for developers, built with SvelteKit and the YouTube IFrame API, featuring an iOS-style Liquid Glass UI."
                 },
                 {
-                    "title": "DocsInsight Engine",
-                    "desc": "Platform RAG privat untuk analisis dokumen cerdas. Didukung oleh LLM lokal melalui Ollama, dengan orkestrasi LangChain dan ChromaDB vector search — sepenuhnya self-hosted untuk privasi data."
+                    "title": "Lifeline",
+                    "desc": "A blood donation camp management platform with dashboards for three user roles, a public hospital directory, and full mobile responsiveness."
                 },
                 {
-                    "title": "Manajemen Dental POLABDC",
-                    "desc": "SaaS klinik gigi bertenaga AI dengan prediksi penyakit, manajemen antrean real-time, dan arsitektur Monorepo yang menghubungkan Next.js, Express.js, dan microservice AI Python."
+                    "title": "GymPro",
+                    "desc": "A gym management system with biometric fingerprint attendance, connecting a physical device to a cloud backend over a TCP bridge script."
                 }
             ],
-            "discoverMore": "Temukan Lebih Lanjut"
+            "discoverMore": "Discover More"
         }
     },
     "projects": {
-        "title": "Proyek",
-        "subtitle": "Showcase karya kreatif dan teknis saya",
-        "search": "Cari proyek...",
-        "viewAll": "Lihat Semua Proyek",
-        "viewProject": "Lihat Proyek",
-        "liveDemo": "Demo Langsung",
-        "sourceCode": "Kode Sumber",
+        "title": "Projects",
+        "subtitle": "A showcase of my creative and technical work",
+        "search": "Search projects...",
+        "viewAll": "View All Projects",
+        "viewProject": "View Project",
+        "liveDemo": "Live Demo",
+        "sourceCode": "Source Code",
         "techStack": "Tech Stack",
-        "tools": "Tools yang Digunakan",
+        "tools": "Tools Used",
         "highlights": "Highlights",
-        "challenges": "Tantangan",
+        "challenges": "Challenges",
         "filters": {
-            "all": "Semua",
-            "ongoing": "Sedang Berjalan",
-            "completed": "Selesai"
+            "all": "All",
+            "ongoing": "Ongoing",
+            "completed": "Completed"
         },
         "sections": {
-            "missionBrief": "Misi Singkat",
-            "keyFeatures": "Fitur Utama",
-            "engineeringChronicles": "Kronik Rekayasa",
-            "visualGallery": "Galeri Visual",
-            "installation": "Instruksi Instalasi",
-            "projectAccess": "Akses Proyek",
-            "technologies": "Teknologi",
-            "contents": "Daftar Isi",
-            "moreProjects": "Proyek Lainnya",
-            "backToProjects": "Kembali ke Proyek",
-            "viewMore": "Lihat Lebih Banyak",
-            "viewLess": "Tampilkan Lebih Sedikit",
-            "solution": "Solusi",
-            "liveDemo": "Demo Langsung",
-            "sourceCode": "Kode Sumber"
+            "missionBrief": "Mission Brief",
+            "keyFeatures": "Key Features",
+            "engineeringChronicles": "Engineering Chronicles",
+            "visualGallery": "Visual Gallery",
+            "installation": "Installation Instructions",
+            "projectAccess": "Project Access",
+            "technologies": "Technologies",
+            "contents": "Table of Contents",
+            "moreProjects": "More Projects",
+            "backToProjects": "Back to Projects",
+            "viewMore": "View More",
+            "viewLess": "View Less",
+            "solution": "Solution",
+            "liveDemo": "Live Demo",
+            "sourceCode": "Source Code"
         },
         "status": {
-            "ongoing": "Pengembangan Aktif",
-            "completed": "Proyek Selesai"
+            "ongoing": "Active Development",
+            "completed": "Completed Project"
         },
         "metadata": {
-            "role": "Peran",
-            "timeline": "Waktu",
-            "team": "Tim",
-            "techStack": "Teknologi",
-            "roleValue": "Pengembang Full Stack",
-            "teamValue": "Individu",
-            "techStackValue": "{count} Teknologi"
+            "role": "Role",
+            "timeline": "Timeline",
+            "team": "Team",
+            "techStack": "Technology",
+            "roleValue": "Full Stack Developer",
+            "teamValue": "Solo",
+            "techStackValue": "{count} Technologies"
         }
     },
     "experience": {
-        "title": "Pengalaman",
-        "subtitle": "Perjalanan profesional dan perkembangan saya",
-        "showDetail": "Tampilkan Detail",
-        "hideDetail": "Sembunyikan Detail",
-        "tasks": "TUGAS",
-        "learned": "APA YANG SAYA PELAJARI",
-        "impact": "DAMPAK",
-        "present": "Sekarang",
-        "responsibilities": "Tanggung Jawab",
-        "skills": "Keahlian yang Digunakan",
-        "month": "bulan",
-        "months": "bulan",
-        "year": "tahun",
-        "years": "tahun",
+        "title": "Experience",
+        "subtitle": "My professional journey and growth",
+        "showDetail": "Show Detail",
+        "hideDetail": "Hide Detail",
+        "tasks": "TASKS",
+        "learned": "WHAT I LEARNED",
+        "impact": "IMPACT",
+        "present": "Present",
+        "responsibilities": "Responsibilities",
+        "skills": "Skills Used",
+        "month": "month",
+        "months": "months",
+        "year": "year",
+        "years": "years",
         "type": {
-            "full-time": "Penuh Waktu",
-            "part-time": "Paruh Waktu",
-            "internship": "Magang",
+            "full-time": "Full Time",
+            "part-time": "Part Time",
+            "internship": "Internship",
             "freelance": "Freelance",
-            "contract": "Kontrak",
+            "contract": "Contract",
             "apprenticeship": "Apprenticeship",
-            "volunteer": "Sukarelawan"
+            "volunteer": "Volunteer"
         },
         "filters": {
-            "all": "Semua",
-            "latest": "Terbaru",
-            "oldest": "Terlama",
-            "ongoing": "Sedang Berjalan"
+            "all": "All",
+            "latest": "Latest",
+            "oldest": "Oldest",
+            "ongoing": "Ongoing"
         },
         "education": {
-            "title": "Pendidikan"
+            "title": "Education"
         }
     },
     "expertise": {
-        "title": "Kapabilitas Inti",
-        "subtitle": "Spesialisasi dalam teknologi mutakhir yang mendukung pengalaman digital modern",
-        "dragHint": "Geser atau gulir untuk menjelajah"
+        "title": "Core Capabilities",
+        "subtitle": "Specialization in cutting-edge technologies powering modern digital experiences",
+        "dragHint": "Drag or scroll to explore"
     },
     "skills": {
-        "title": "Keahlian & Tools",
-        "subtitle": "Teknologi dan tools yang saya gunakan",
-        "hard": "Keahlian Teknis",
+        "title": "Skills & Tools",
+        "subtitle": "Technologies and tools I use",
+        "hard": "Technical Skills",
         "soft": "Soft Skills",
         "tools": "Tools & Software",
         "level": {
-            "beginner": "Pemula",
-            "intermediate": "Menengah",
-            "advanced": "Mahir",
-            "expert": "Ahli"
+            "beginner": "Beginner",
+            "intermediate": "Intermediate",
+            "advanced": "Advanced",
+            "expert": "Expert"
         }
     },
     "achievements": {
-        "title": "Pencapaian",
-        "subtitle": "Sertifikasi, penghargaan, dan milestone",
-        "viewCredential": "Lihat Kredensial",
+        "title": "Achievements",
+        "subtitle": "Certifications, awards, and milestones",
+        "viewCredential": "View Credential",
         "category": {
-            "certification": "Sertifikasi",
-            "award": "Penghargaan",
-            "publication": "Publikasi"
+            "certification": "Certification",
+            "award": "Award",
+            "publication": "Publication"
         }
     },
     "contact": {
-        "title": "Hubungi Saya",
-        "subtitle": "Mari membangun sesuatu yang luar biasa bersama",
+        "title": "Contact Me",
+        "subtitle": "Let's build something amazing together",
         "form": {
-            "name": "Nama Anda",
-            "email": "Email Anda",
-            "subject": "Subjek",
-            "message": "Pesan Anda",
-            "messagePlaceholder": "Ceritakan tentang proyek Anda...",
-            "send": "Kirim Pesan",
-            "submit": "KIRIM PESAN",
-            "sending": "MENGIRIM...",
-            "sent": "TERKIRIM!",
-            "success": "Pesan berhasil dikirim!",
-            "error": "Terjadi kesalahan. Silakan coba lagi."
+            "name": "Your Name",
+            "email": "Your Email",
+            "subject": "Subject",
+            "message": "Your Message",
+            "messagePlaceholder": "Tell me about your project...",
+            "send": "Send Message",
+            "submit": "SEND MESSAGE",
+            "sending": "SENDING...",
+            "sent": "SENT!",
+            "success": "Message sent successfully!",
+            "error": "Something went wrong. Please try again."
         },
         "social": {
-            "title": "Terhubung di Media Sosial"
+            "title": "Connect on Social Media"
         },
         "faq": {
-            "title": "Pertanyaan yang Sering Diajukan"
+            "title": "Frequently Asked Questions"
         },
         "info": {
             "email": "Email",
-            "phone": "Telepon",
-            "location": "Lokasi",
-            "availability": "Terbuka untuk kesempatan"
+            "phone": "Phone",
+            "location": "Location",
+            "availability": "Open to opportunities"
         },
         "hero": {
-            "title": "MARI BICARA",
-            "subtitle": "Punya ide? Mari bangun sesuatu yang luar biasa bersama.",
+            "title": "LET'S TALK",
+            "subtitle": "Have an idea? Let's build something amazing together.",
             "ticker": {
-                "build": "Mari Bangun Sesuatu yang Luar Biasa · ",
-                "freelance": "Tersedia untuk Freelance · "
+                "build": "Let's Build Something Amazing · ",
+                "freelance": "Available for Freelance · "
             }
         },
         "faqData": [
             {
-                "q": "Apa bidang keahlian utama Anda?",
-                "a": "Sebagai mahasiswa Teknologi Informasi di Telkom University dan Asisten Peneliti di Laboratorium Cyber Physical System, saya berspesialisasi dalam persimpangan Kecerdasan Buatan (Computer Vision & Deep Learning), Full-stack Development (Next.js & Node.js), dan teknologi Blockchain/Web3 yang sedang berkembang."
+                "q": "What's your main area of expertise?",
+                "a": "I specialize in full-stack development — React, SvelteKit, and Node.js/Express on the frontend/backend, paired with MySQL, PostgreSQL/Supabase, and Google Apps Script depending on the project's needs."
             },
             {
-                "q": "Apakah Anda tersedia untuk kolaborasi riset atau freelance?",
-                "a": "Tentu saja. Saat ini saya aktif dalam riset AI di CPS Lab dan Pusat Riset HUMIC, tetapi saya selalu terbuka untuk proyek freelance inovatif, magang, atau kolaborasi teknis yang menjembatani inovasi dengan eksekusi strategis."
+                "q": "Are you available for hackathon or freelance collaboration?",
+                "a": "Absolutely. I actively lead team SyntaxSquad across hackathon competitions, and I'm always open to freelance projects, technical collaboration, or cross-disciplinary teamwork."
             },
             {
-                "q": "Apa tech stack tipikal Anda untuk produksi?",
-                "a": "Untuk proyek AI, saya menggunakan Python dengan TensorFlow, PyTorch, dan YOLO. Untuk aplikasi web, andalan saya adalah stack T3: Next.js, TypeScript, dan Tailwind CSS, sering kali diintegrasikan dengan Agen AI atau Smart Contracts jika sesuai."
+                "q": "What's your typical production tech stack?",
+                "a": "For web apps, my go-to is React/Next.js or SvelteKit on the frontend, Node.js/Express on the backend, and MySQL or Supabase/PostgreSQL as the database — with structured documentation at every phase."
             },
             {
-                "q": "Apakah Anda memiliki pengalaman dengan proyek enterprise atau lab?",
-                "a": "Ya, saya pernah menjabat sebagai System Analyst dan Pengembang AI di berbagai lingkungan berbasis riset. Saya telah merancang mulai dari platform AIoT dan sistem deteksi serangan hingga modul praktikum siswa untuk audiens global."
+                "q": "Do you have experience with real-world management systems?",
+                "a": "Yes, I've built several full-stack management systems — from a company EBMS, to a hospital coordination platform, to a gym management system with biometric hardware integration."
             },
             {
-                "q": "Bagaimana cara memulai kemitraan atau proyek?",
-                "a": "Cara paling efisien adalah menggunakan formulir kontak di atas atau menghubungi langsung melalui email di azril4974@gmail.com. Saya biasanya dapat merespons dalam waktu 24 jam untuk mendiskusikan bagaimana keterampilan teknis saya dapat memberikan nilai tambah bagi inisiatif Anda."
+                "q": "How do I start a partnership or project?",
+                "a": "The most efficient way is to use the contact form above or reach out directly via email. I'm usually able to respond within 24 hours to discuss how my technical skill set can add value to your initiatives."
             }
         ]
     },
     "stats": {
-        "systemStatus": "Status Sistem: Analitik Aktif",
+        "systemStatus": "System Status: Analytics Active",
         "portfolio": "Engineering Metrics",
-        "totalPulse": "Total Denyut",
-        "peakActivity": "Aktivitas Puncak",
-        "dailyAverage": "Rata-rata Harian",
-        "currentSprint": "Sprint Saat Ini",
-        "engageFlow": "Alur Keterlibatan",
-        "weeklyEffort": "Upaya Coding Mingguan",
-        "processSpeed": "Kecepatan Proses",
-        "avgPerf": "Performa Rata-rata",
-        "latency": "LATENSI: 14MS",
-        "system": "SISTEM: DARWIN_X64_STABIL",
-        "scanning": "MEMINDAI_SUMBER_DAYA_LANGSUNG",
-        "engineering": "REKAYASA",
-        "metrics": "METRIK",
-        "analyticsSub": "ANALITIK / INFRASTRUKTUR / DATA PERFORMA",
+        "totalPulse": "Total Pulse",
+        "peakActivity": "Peak Activity",
+        "dailyAverage": "Daily Average",
+        "currentSprint": "Current Sprint",
+        "engageFlow": "Engagement Flow",
+        "weeklyEffort": "Weekly Coding Effort",
+        "processSpeed": "Process Speed",
+        "avgPerf": "Average Performance",
+        "latency": "LATENCY: 14MS",
+        "system": "SYSTEM: DARWIN_X64_STABLE",
+        "scanning": "SCANNING_LIVE_RESOURCES",
+        "engineering": "ENGINEERING",
+        "metrics": "METRICS",
+        "analyticsSub": "ANALYTICS / INFRASTRUCTURE / PERFORMANCE DATA",
         "statusOnline": "STATUS: ONLINE",
-        "loadStable": "BEBAN_SISTEM: STABIL"
+        "loadStable": "SYSTEM_LOAD: STABLE"
     },
     "projectHeader": {
-        "title": "Merancang Realitas Digital",
-        "subtitle": "Pameran kurasi inovasi teknis dan rekayasa kreatif. Menjelajahi batas-batas <span class='font-bold text-foreground'>Kecerdasan Buatan</span>, Blockchain, Data, dan pengalaman Web Imersif."
+        "title": "Architecting Digital Reality",
+        "subtitle": "A curated showcase of technical projects and creative engineering. Exploring the frontiers of <span class='font-bold text-foreground'>Full Stack Engineering</span>, Real-time Systems, and Immersive Web Experiences."
     },
     "footer": {
-        "copyright": "Hak cipta dilindungi.",
-        "madeWith": "Dibuat dengan",
-        "more": "Lainnya",
+        "copyright": "All rights reserved.",
+        "madeWith": "Made with",
+        "more": "More",
         "marquee": [
-            "Terbuka untuk Peluang",
-            "Pengembangan Frontend",
-            "Arsitektur Backend",
-            "Desain UI/UX",
-            "Coding Kreatif",
-            "Optimasi Sistem"
+            "Open to Opportunities",
+            "Frontend Development",
+            "Backend Architecture",
+            "UI/UX Design",
+            "Creative Coding",
+            "System Optimization"
         ],
         "cta": {
-            "title": "Mari Bekerja",
-            "titleHighlight": "Bersama",
-            "subtitle": "Punya proyek? Mari bangun sesuatu yang luar biasa yang memecahkan masalah nyata."
+            "title": "Let's Work",
+            "titleHighlight": "Together",
+            "subtitle": "Have a project? Let's build something amazing that solves real problems."
         },
-        "links": "TAUTAN",
-        "socials": "SOSIAL",
-        "localTime": "WAKTU LOKAL",
-        "version": "VERSI",
+        "links": "LINKS",
+        "socials": "SOCIALS",
+        "localTime": "LOCAL TIME",
+        "version": "VERSION",
         "versionEdition": "2026 © Edition"
     },
     "ctaSection": {
-        "title": "Mari Membangun Sesuatu yang",
-        "together": "Bersama",
-        "subtitle": "Terbuka untuk kolaborasi strategis dalam pengembangan sistem berbasis AI dan rekayasa full stack yang skalabel. Mari kita transformasikan ide ambisius menjadi solusi siap produksi.",
+        "title": "Let's Build Something",
+        "together": "Together",
+        "subtitle": "Open to strategic collaboration on scalable full-stack system development. Let's turn ambitious ideas into production-ready solutions.",
         "start": "Hire Me",
         "work": "View My Resume",
         "words": {
-            "amazing": "Luar Biasa",
-            "innovative": "Inovatif",
-            "intelligent": "Cerdas",
-            "creative": "Kreatif"
+            "amazing": "Amazing",
+            "innovative": "Innovative",
+            "intelligent": "Intelligent",
+            "creative": "Creative"
         },
-        "ribbon1": "Next.js • React • Python • PyTorch • Pandas • TypeScript • Node.js • Scikit-Learn • TensorFlow • SQL",
-        "ribbon2": "Software Engineer • AI Engineer • Data Scientist • Data Analyst • Machine Learning Engineer • Backend Developer • Full Stack Engineer • NLP Engineer • Data Engineer • Web Developer"
+        "ribbon1": "React • SvelteKit • Node.js • Express • TypeScript • MySQL • PostgreSQL • Supabase • Google Apps Script • Tailwind CSS",
+        "ribbon2": "Full Stack Developer • Team Lead • Backend Developer • Frontend Developer • System Architect • Hackathon Builder • Web Developer"
     },
     "common": {
-        "loading": "Memuat...",
-        "error": "Terjadi kesalahan",
-        "notFound": "Halaman tidak ditemukan",
-        "backHome": "Kembali ke Beranda",
-        "viewMore": "Lihat Selengkapnya",
-        "readMore": "Baca Selengkapnya",
-        "close": "Tutup",
-        "download": "Unduh",
-        "share": "Bagikan",
-        "scrollAudit": "Gulir untuk Menjelajah"
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "notFound": "Page not found",
+        "backHome": "Back to Home",
+        "viewMore": "View More",
+        "readMore": "Read More",
+        "close": "Close",
+        "download": "Download",
+        "share": "Share",
+        "scrollAudit": "Scroll to Explore"
     },
     "technical": {
         "github": {
-            "title": "Kontribusi GitHub",
-            "description": "Aktivitas GitHub saya selama setahun terakhir.",
+            "title": "GitHub Contributions",
+            "description": "My GitHub activity over the past year.",
             "total": "Total",
-            "thisWeek": "Minggu Ini",
-            "best": "Terbaik",
-            "average": "Rata-rata",
-            "less": "Sedikit",
-            "more": "Banyak"
+            "thisWeek": "This Week",
+            "best": "Best",
+            "average": "Average",
+            "less": "Less",
+            "more": "More"
         },
         "wakatime": {
-            "title": "Statistik WakaTime",
-            "description": "Aktivitas coding selama 7 hari terakhir.",
-            "lastUpdate": "Pembaruan Terakhir",
-            "startDate": "Tanggal Mulai",
-            "endDate": "Tanggal Selesai",
-            "dailyAverage": "Rata-rata Harian",
-            "totalWeek": "Total Minggu Ini",
-            "bestDay": "Hari Terbaik",
-            "totalSince": "Total Sejak Bergabung",
-            "topLanguages": "Bahasa Teratas"
+            "title": "WakaTime Stats",
+            "description": "Coding activity over the past 7 days.",
+            "lastUpdate": "Last Update",
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "dailyAverage": "Daily Average",
+            "totalWeek": "Total This Week",
+            "bestDay": "Best Day",
+            "totalSince": "Total Since Joining",
+            "topLanguages": "Top Languages"
         }
     },
     "blog": {
-        "title": "Pemikiran & Eksplorasi",
-        "subtitle": "Menjembatani kesenjangan antara kompleksitas teknis dan implementasi praktis. Kumpulan wawasan tentang AI, Web3, dan Software Engineering.",
+        "title": "Thoughts & Explorations",
+        "subtitle": "Bridging the gap between technical complexity and practical implementation. A collection of insights on full-stack engineering, hackathons, and scalable systems.",
         "sectionBadge": "Digital Archive",
-        "search": "Cari artikel...",
-        "readTime": "menit baca",
-        "readMore": "Baca Artikel",
-        "back": "Kembali ke Blog",
-        "noResults": "Tidak ada artikel ditemukan",
+        "search": "Search articles...",
+        "readTime": "min read",
+        "readMore": "Read Article",
+        "back": "Back to Blog",
+        "noResults": "No articles found",
         "categories": {
             "applied-ai": "Applied AI",
             "software-development": "Software Dev",
@@ -471,31 +461,31 @@
         }
     },
     "gallery": {
-        "title": "Arsip Visual",
-        "subtitle": "Koleksi kurasi highlight proyek, dokumentasi teknis, dan eksplorasi visual kreatif.",
+        "title": "Visual Archive",
+        "subtitle": "A curated collection of project highlights, technical documentation, and creative visual explorations.",
         "filter": {
-            "all": "Semua Media",
-            "image": "Foto",
-            "video": "Video"
+            "all": "All Media",
+            "image": "Photos",
+            "video": "Videos"
         },
-        "viewMedia": "Lihat Media"
+        "viewMedia": "View Media"
     },
     "chatbot": {
-        "title": "Asisten AI",
-        "subtitle": "Tanya saya tentang Azril",
-        "placeholder": "Ketik pesan...",
-        "greeting": "Halo! Saya asisten AI untuk **{name}**. 👋\n\nSaya bisa menjawab pertanyaan seputar:\n- Skill & keahlian teknis\n- Project dan karya\n- Pengalaman kerja\n- Pendidikan\n- Dan info lainnya!\n\nAda yang ingin kamu tanyakan?",
+        "title": "AI Assistant",
+        "subtitle": "Ask me about Aditya",
+        "placeholder": "Type a message...",
+        "greeting": "Hi! I'm the AI assistant for **{name}**. 👋\n\nI can answer questions about:\n- Skills & technical expertise\n- Projects and work\n- Work experience\n- Education\n- And more!\n\nWhat would you like to know?",
         "suggestions": [
-            "Apa keahlian utama kamu?",
-            "Ceritakan project terbaik kamu",
-            "Apa pengalaman kerja kamu?",
-            "Skill AI apa yang kamu kuasai?"
+            "What are your main skills?",
+            "Tell me about your best project",
+            "What's your work experience?",
+            "What stack do you specialize in?"
         ],
-        "error": "Terjadi kesalahan. Silakan coba lagi.",
-        "invalidResponse": "Respons tidak valid dari server.",
-        "unknownError": "Terjadi kesalahan yang tidak diketahui.",
-        "retry": "Coba lagi",
-        "inputHint": "Enter untuk kirim, Shift+Enter untuk baris baru",
-        "close": "Tutup chat"
+        "error": "Something went wrong. Please try again.",
+        "invalidResponse": "Invalid response from server.",
+        "unknownError": "An unknown error occurred.",
+        "retry": "Retry",
+        "inputHint": "Enter to send, Shift+Enter for new line",
+        "close": "Close chat"
     }
 }

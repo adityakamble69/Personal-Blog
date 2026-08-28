@@ -347,7 +347,7 @@ export function HeroVisual({ isExiting = false }: { isExiting?: boolean }) {
             >
               <ProfileCard
                 name={personal.name}
-                title="Full Stack WEBSITE DEVELOPER"
+                title="Full Stack Web Developer"
                 description={`${personal.name} is a dedicated Full Stack Web Developer focused on building scalable, high-performance web applications and robust software solutions. He specializes in developing seamless end-to-end experiences, combining modern frontend technologies with powerful backend architectures to create secure, efficient, and impactful digital products.`}
                 imageUrl={personal.avatar}
                 githubUrl={personal.socialLinks.find(s => s.platform === 'GitHub')?.url}
