@@ -27,9 +27,6 @@ import { ArgentLoopInfiniteSlider } from "@/components/ui/argent-loop-infinite-s
 import { HorizontalTimeline } from "@/components/ui/horizontal-timeline";
 import { CertificateShowcase } from "@/components/ui/certificate-marquee";
 import { GitHubShowcase } from "@/components/ui/github-showcase";
-import KaggleShowcase from "@/components/ui/kaggle-showcase";
-import { WakaTimeShowcase } from "@/components/ui/wakatime-showcase";
-import { ShowcaseStack } from "@/components/ui/showcase-stack";
 
 const showcaseMembers = [
     // 1. Asterisc Technocart Pvt Ltd
@@ -39,7 +36,7 @@ const showcaseMembers = [
         role: exp.position,
         description: exp.description,
         period: "January 2026 - Present",
-        image: "/journey/researchassistant2.webp",
+        image: "/journey/asterisc.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
     // 2. Codomax Digital Solutions
@@ -49,7 +46,7 @@ const showcaseMembers = [
         role: exp.position,
         description: exp.description,
         period: "August 2026 - Present",
-        image: "/journey/aideveloperintern1.webp",
+        image: "/journey/codomax.jpg",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
     // 3. Techfest, IIT Bombay
@@ -59,7 +56,7 @@ const showcaseMembers = [
         role: exp.position,
         description: exp.description,
         period: "July 2026 - Present",
-        image: "/journey/computernetworkpracticumassistant2.webp",
+        image: "/journey/iitbombay.jpg",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
     // 4. View more
@@ -73,22 +70,20 @@ const showcaseMembers = [
 ];
 
 const GALLERY_IMAGES = [
-    "/gallery/Foto Utama.webp",
     "/gallery/aditya.jpg",
-    "/gallery/FotoSC1.webp",
-    "/gallery/FotoSC2.webp",
-    "/gallery/FotoSC3.webp",
-    "/gallery/FotoSC4.webp",
-    "/gallery/FotoSC5.webp",
-    "/gallery/academicaffairsdivision1.webp",
-    "/gallery/computernetworkpracticumassistant2.webp",
-    "/gallery/dataentryassistant1.webp",
-    "/gallery/delegateaiesecfutureleaders20241.webp",
-    "/gallery/environmentalhygieneteam1.webp",
-    "/gallery/environmentalhygieneteam2.webp",
-    "/gallery/logisticsoperatorcampusexpo20242.webp",
-    "/gallery/researchassistant1.webp",
-    "/gallery/researchassistant2.webp"
+    "/gallery/IMG-20260819-WA0015.jpg",
+    "/gallery/IMG-20260825-WA0015.jpg",
+    "/gallery/IMG-20260825-WA0017.jpg",
+    "/gallery/IMG-20260825-WA0019.jpg",
+    "/gallery/IMG-20260825-WA0021.jpg",
+    "/gallery/IMG-20260825-WA0023.jpg",
+    "/gallery/IMG-20260825-WA0025.jpg",
+    "/gallery/IMG-20260825-WA0027.jpg",
+    "/gallery/IMG-20260825-WA0029.jpg",
+    "/gallery/IMG-20260825-WA0031.jpg",
+    "/gallery/IMG-20260825-WA0033.jpg",
+    "/gallery/Snapchat-34579140.jpg",
+    "/gallery/Snapchat-515254727.jpg"
 ];
 
 const AboutLeadInImageStack = () => {
@@ -672,18 +667,10 @@ export default function AboutSection() {
                             <CertificateShowcase />
                         </div>
 
-                        {/* Stacking Card Showcases */}
-                        <ShowcaseStack>
-                            <div className="w-full">
-                                <GitHubShowcase />
-                            </div>
-                            <div className="w-full">
-                                <KaggleShowcase />
-                            </div>
-                            <div className="w-full">
-                                <WakaTimeShowcase />
-                            </div>
-                        </ShowcaseStack>
+                        {/* Showcase Section */}
+                        <div className="w-full mt-8 md:mt-12">
+                            <GitHubShowcase />
+                        </div>
                     </div>
                     <AuditFunnel />
                 </div>

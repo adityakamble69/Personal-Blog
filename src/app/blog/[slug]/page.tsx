@@ -137,14 +137,11 @@ export default function BlogPostPage({ params }: { params: Promise<{ slug: strin
                             )}
                         </button>
                         <div className="w-px h-6 bg-border/40 hidden sm:block" />
-                        <Link href="https://linkedin.com/in/syahril-arfian-almazril" target="_blank" className="p-2 text-muted-foreground hover:text-primary transition-colors bg-secondary/10 rounded-lg hover:bg-primary/10">
+                        <Link href="https://www.linkedin.com/in/adityakamble69" target="_blank" className="p-2 text-muted-foreground hover:text-primary transition-colors bg-secondary/10 rounded-lg hover:bg-primary/10">
                             <Linkedin className="w-4 h-4" />
                         </Link>
-                        <Link href="https://github.com/Arfazrll" target="_blank" className="p-2 text-muted-foreground hover:text-primary transition-colors bg-secondary/10 rounded-lg hover:bg-primary/10">
+                        <Link href="https://github.com/adityakamble69" target="_blank" className="p-2 text-muted-foreground hover:text-primary transition-colors bg-secondary/10 rounded-lg hover:bg-primary/10">
                             <Github className="w-4 h-4" />
-                        </Link>
-                        <Link href="https://medium.com/@arfazrll" target="_blank" className="p-2 text-muted-foreground hover:text-primary transition-colors bg-secondary/10 rounded-lg hover:bg-primary/10">
-                            <BookOpen className="w-4 h-4" />
                         </Link>
                     </div>
                 </div>

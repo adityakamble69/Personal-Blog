@@ -32,27 +32,27 @@ const signature = Alex_Brush({
 
 export const metadata: Metadata = {
     title: {
-        default: 'Arfazrll | AI & Software Engineer',
+        default: 'Aditya Kamble | Full Stack Developer',
         template: '%s | Portfolio',
     },
     description: 'A passionate developer building digital experiences that inspire. Explore my projects, skills, and professional journey.',
     keywords: ['developer', 'portfolio', 'web development', 'full stack', 'react', 'nextjs'],
-    authors: [{ name: 'Your Name' }],
-    creator: 'Your Name',
-    metadataBase: new URL('https://your-domain.com'),
+    authors: [{ name: 'Aditya Kamble' }],
+    creator: 'Aditya Kamble',
+    metadataBase: new URL('https://aadiiportfolio.vercel.app'),
     openGraph: {
         type: 'website',
         locale: 'en_US',
-        url: 'https://your-domain.com',
-        title: 'Arfazrll | AI & Software Engineer',
+        url: 'https://aadiiportfolio.vercel.app',
+        title: 'Aditya Kamble | Full Stack Developer',
         description: 'A passionate developer building digital experiences that inspire.',
         siteName: 'Portfolio',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Arfazrll | AI & Software Engineer',
+        title: 'Aditya Kamble | Full Stack Developer',
         description: 'A passionate developer building digital experiences that inspire.',
-        creator: '@yourusername',
+        creator: '@adityakamble69',
     },
     robots: {
         index: true,
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
     },
     icons: {
         icon: [
-            { url: '/Arfazrll_light.svg', media: '(prefers-color-scheme: light)' },
-            { url: '/Arfazrll_dark.svg', media: '(prefers-color-scheme: dark)' },
+            { url: '/aditya_light.svg', media: '(prefers-color-scheme: light)' },
+            { url: '/aditya_dark.svg', media: '(prefers-color-scheme: dark)' },
         ],
     },
 };

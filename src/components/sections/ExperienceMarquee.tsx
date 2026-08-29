@@ -178,34 +178,13 @@ export default function ExperienceMarquee() {
 
     //company logos dalne hai yaha pe 
     const allLogos = [
-        "/assets/DBSLogo.webp",
-        "/assets/HMITlogo.webp",
-        "/assets/HumicLogo.webp",
-        "/assets/McKinseylogo.webp",
-        "/assets/TelkomUniversityLogo.webp",
-        "/assets/aieseclogo.webp",
-        "/assets/aselablogo.webp",
-        "/assets/birulangitlogo.webp",
-        "/assets/cisometriclogo.webp",
-        "/assets/dicodinglogo.webp",
-        "/assets/dinas-pangan-dan-pertanian-kota-bandung.webp",
-        "/assets/flyrankailogo.webp",
-        "/assets/iflablogo.webp",
-        "/assets/indosat-ooredoo-hutchison-digital-camp.webp",
-        "/assets/logobei.webp",
-        "/assets/logocps.webp",
-        "/assets/logodigistar.webp",
         "/assets/logogdsc.webp",
-        "/assets/microsotlogo.webp",
-        "/assets/sman88logo.webp",
-        "/assets/softagelogo.webp",
-        "/assets/yotlogo.webp",
-        "/assets/youth-ranger-indonesia.webp"
+        "/assets/microsotlogo.webp"
     ];
 
-    // Balance rows: 12 in row 1, 11 in row 2
-    const row1 = allLogos.slice(0, 12);
-    const row2 = allLogos.slice(12);
+    // Balance rows
+    const row1 = ["/assets/logogdsc.webp", "/assets/microsotlogo.webp"];
+    const row2 = ["/assets/microsotlogo.webp", "/assets/logogdsc.webp"];
 
     const ensureLength = (items: string[]) => {
         let repeated = [...items];

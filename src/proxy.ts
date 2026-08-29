@@ -8,7 +8,7 @@ export function proxy(request: NextRequest) {
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
     if (isMobile) {
-        return NextResponse.redirect('https://arfazrllworkspace.vercel.app/');
+        return NextResponse.redirect('https://aadiiportfolio.vercel.app/');
     }
 
     return NextResponse.next();

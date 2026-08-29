@@ -222,7 +222,7 @@ export function Footer() {
                                             <Fragment key={social.platform}>
                                                 {social.platform === 'Twitter' && (
                                                     <motion.a
-                                                        href="https://arfazrllworkspace.vercel.app/"
+                                                        href="https://aadiiportfolio.vercel.app/"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
                                                         className="p-1.5 rounded-full hover:bg-foreground/5 transition-all text-muted-foreground hover:text-foreground hover:scale-110 active:scale-95"
@@ -411,7 +411,7 @@ export function Footer() {
                                         transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
                                         className="text-[18vw] font-black leading-none text-zinc-900 dark:text-white tracking-tighter select-none text-center"
                                     >
-                                        ARFAZRLL
+                                        ADITYA
                                     </motion.h2>
                                 </div>
                             </div>

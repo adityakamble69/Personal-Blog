@@ -3550,7 +3550,7 @@ export const portfolioData: PortfolioData = {
             location: `India · On-site`,
             type: `internship`,
             externalLink: ``,
-            logo: `/assets/asterisc-technocart-logo.webp`,
+            logo: `/assets/asterisc-technocart-logo.png`,
             logoBg: `bg-white`,
         },
         {
@@ -3577,7 +3577,7 @@ export const portfolioData: PortfolioData = {
             location: `Santhoshapuram, Chennai, Tamil Nadu, India · On-site`,
             type: `internship`,
             externalLink: `https://codomaxdigital.in`,
-            logo: `/assets/codomax-logo.webp`,
+            logo: `/assets/codomax-logo.png`,
             logoBg: `bg-white`,
         },
         {
@@ -3604,7 +3604,7 @@ export const portfolioData: PortfolioData = {
             location: `Mumbai, Maharashtra, India · Hybrid`,
             type: `volunteer`,
             externalLink: `https://techfest.org`,
-            logo: `/assets/techfest-iit-bombay-logo.webp`,
+            logo: `/assets/techfest-iit-bombay-logo.png`,
             logoBg: `bg-white`,
         },
     ],

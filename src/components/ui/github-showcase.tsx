@@ -22,7 +22,6 @@ import Link from 'next/link';
 import { GithubCalendar } from './retro-space-shooter-git-hub-calendar';
 import { createPortal } from 'react-dom';
 import { motion, AnimatePresence, useInView, animate } from 'framer-motion';
-import { useIsInStack } from './showcase-stack';
 import { useLenis } from 'lenis/react';
 
 const GITHUB_USER = "adityakamble69";

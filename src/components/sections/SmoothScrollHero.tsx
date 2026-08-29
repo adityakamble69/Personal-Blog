@@ -89,7 +89,7 @@ const CenterImage = ({ scrollY }: { scrollY: MotionValue<number> }) => {
                     borderRadius,
                     opacity,
                     backgroundImage:
-                        "url('/experience/Foto Utama.webp')",
+                        "url('/experience/aditya.jpg')",
                     backgroundPosition: "center",
                     backgroundSize: "cover",
                     backgroundRepeat: "no-repeat",
@@ -145,8 +145,8 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-2">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC1.webp"
-                    alt="Space launch"
+                    src="/experience/IMG-20260819-WA0015.jpg"
+                    alt="Experience 1"
                     start={800}
                     end={-1500}
                     className="w-full shadow-2xl rounded-2xl border border-white/10 aspect-[4/3] object-cover"
@@ -157,8 +157,8 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-10 mb-32">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC2.webp"
-                    alt="Space launch"
+                    src="/experience/IMG-20260825-WA0027.jpg"
+                    alt="Experience 2"
                     start={1000}
                     end={-1500}
                     className="w-full shadow-2xl rounded-2xl border border-white/10 aspect-square object-cover"
@@ -169,8 +169,8 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-4 col-start-5 mb-10">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC3.webp"
-                    alt="Satellite view"
+                    src="/experience/IMG-20260825-WA0029.jpg"
+                    alt="Experience 3"
                     start={900}
                     end={-1800}
                     className="w-full shadow-2xl rounded-2xl border border-white/10 aspect-video object-cover"
@@ -181,8 +181,8 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-1 mb-64">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC4.webp"
-                    alt="Space texture"
+                    src="/experience/Snapchat-34579140.jpg"
+                    alt="Experience 4"
                     start={1200}
                     end={-2000}
                     className="w-full shadow-2xl rounded-2xl border border-white/10 aspect-[3/4] object-cover"
@@ -193,8 +193,8 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-4 col-start-8 mb-40">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC5.webp"
-                    alt="Orbiting satellite"
+                    src="/experience/Snapchat-515254727.jpg"
+                    alt="Experience 5"
                     start={1100}
                     end={-2000}
                     className="w-full shadow-2xl rounded-2xl border border-white/10 aspect-video object-cover"

@@ -1,27 +1,27 @@
 "use client";
 import { AnimatePresence, motion } from "framer-motion";
 import React, { useEffect, useState } from "react";
-import { BrainCircuit, Database, Code2 } from "lucide-react";
+import { Palette, Globe, Code2 } from "lucide-react";
 import { useIsMobile } from "@/hooks/useIsMobile";
 import ImageTrail from "@/components/ImageTrail";
 
 const INITIAL_CHIPS = [
   {
     id: 1,
-    title: "AI Engineer",
-    description: "Architect intelligent systems",
-    icon: BrainCircuit,
+    title: "UI & UX Designer",
+    description: "Designing intuitive interfaces",
+    icon: Palette,
   },
   {
     id: 2,
-    title: "Data Engineer",
-    description: "Building scalable pipelines",
-    icon: Database,
+    title: "Web Developer",
+    description: "Building modern web experiences",
+    icon: Globe,
   },
   {
     id: 3,
-    title: "Software Engineer",
-    description: "Crafting robust applications",
+    title: "Full Stack Developer",
+    description: "Crafting end-to-end applications",
     icon: Code2,
   },
 ];

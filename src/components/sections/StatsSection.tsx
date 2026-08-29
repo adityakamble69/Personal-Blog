@@ -26,21 +26,20 @@ export default function StatsSection({ scrollYProgress, showOnly }: { scrollYPro
 
     useEffect(() => {
         const galleryImages = [
-            { src: '/gallery/Foto Utama.webp', alt: 'Foto Utama' },
-            { src: '/gallery/FotoSC1.webp', alt: 'Foto SC1' },
-            { src: '/gallery/FotoSC2.webp', alt: 'Foto SC2' },
-            { src: '/gallery/FotoSC3.webp', alt: 'Foto SC3' },
-            { src: '/gallery/FotoSC4.webp', alt: 'Foto SC4' },
-            { src: '/gallery/FotoSC5.webp', alt: 'Foto SC5' },
-            { src: '/gallery/academicaffairsdivision1.webp', alt: 'Academic Affairs' },
-            { src: '/gallery/computernetworkpracticumassistant2.webp', alt: 'Computer Network' },
-            { src: '/gallery/dataentryassistant1.webp', alt: 'Data Entry' },
-            { src: '/gallery/delegateaiesecfutureleaders20241.webp', alt: 'AIESEC' },
-            { src: '/gallery/environmentalhygieneteam1.webp', alt: 'Hygiene Team 1' },
-            { src: '/gallery/environmentalhygieneteam2.webp', alt: 'Hygiene Team 2' },
-            { src: '/gallery/logisticsoperatorcampusexpo20242.webp', alt: 'Logistics' },
-            { src: '/gallery/researchassistant1.webp', alt: 'Research Assistant 1' },
-            { src: '/gallery/researchassistant2.webp', alt: 'Research Assistant 2' },
+            { src: '/gallery/aditya.jpg', alt: 'Aditya' },
+            { src: '/gallery/IMG-20260819-WA0015.jpg', alt: 'Gallery Image 1' },
+            { src: '/gallery/IMG-20260825-WA0015.jpg', alt: 'Gallery Image 2' },
+            { src: '/gallery/IMG-20260825-WA0017.jpg', alt: 'Gallery Image 3' },
+            { src: '/gallery/IMG-20260825-WA0019.jpg', alt: 'Gallery Image 4' },
+            { src: '/gallery/IMG-20260825-WA0021.jpg', alt: 'Gallery Image 5' },
+            { src: '/gallery/IMG-20260825-WA0023.jpg', alt: 'Gallery Image 6' },
+            { src: '/gallery/IMG-20260825-WA0025.jpg', alt: 'Gallery Image 7' },
+            { src: '/gallery/IMG-20260825-WA0027.jpg', alt: 'Gallery Image 8' },
+            { src: '/gallery/IMG-20260825-WA0029.jpg', alt: 'Gallery Image 9' },
+            { src: '/gallery/IMG-20260825-WA0031.jpg', alt: 'Gallery Image 10' },
+            { src: '/gallery/IMG-20260825-WA0033.jpg', alt: 'Gallery Image 11' },
+            { src: '/gallery/Snapchat-34579140.jpg', alt: 'Gallery Image 12' },
+            { src: '/gallery/Snapchat-515254727.jpg', alt: 'Gallery Image 13' }
         ];
         // Shuffle images randomly
         const shuffledImages = [...galleryImages].sort(() => 0.5 - Math.random());

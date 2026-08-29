@@ -10,21 +10,20 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useTranslations } from 'next-intl';
 
 const GALLERY_IMAGES = [
-    '/gallery/Foto Utama.webp',
-    '/gallery/FotoSC1.webp',
-    '/gallery/FotoSC2.webp',
-    '/gallery/FotoSC3.webp',
-    '/gallery/FotoSC4.webp',
-    '/gallery/FotoSC5.webp',
-    '/gallery/academicaffairsdivision1.webp',
-    '/gallery/computernetworkpracticumassistant2.webp',
-    '/gallery/dataentryassistant1.webp',
-    '/gallery/delegateaiesecfutureleaders20241.webp',
-    '/gallery/environmentalhygieneteam1.webp',
-    '/gallery/environmentalhygieneteam2.webp',
-    '/gallery/logisticsoperatorcampusexpo20242.webp',
-    '/gallery/researchassistant1.webp',
-    '/gallery/researchassistant2.webp',
+    '/gallery/aditya.jpg',
+    '/gallery/IMG-20260819-WA0015.jpg',
+    '/gallery/IMG-20260825-WA0015.jpg',
+    '/gallery/IMG-20260825-WA0017.jpg',
+    '/gallery/IMG-20260825-WA0019.jpg',
+    '/gallery/IMG-20260825-WA0021.jpg',
+    '/gallery/IMG-20260825-WA0023.jpg',
+    '/gallery/IMG-20260825-WA0025.jpg',
+    '/gallery/IMG-20260825-WA0027.jpg',
+    '/gallery/IMG-20260825-WA0029.jpg',
+    '/gallery/IMG-20260825-WA0031.jpg',
+    '/gallery/IMG-20260825-WA0033.jpg',
+    '/gallery/Snapchat-34579140.jpg',
+    '/gallery/Snapchat-515254727.jpg'
 ];
 
 export const NavigationShortcuts = () => {

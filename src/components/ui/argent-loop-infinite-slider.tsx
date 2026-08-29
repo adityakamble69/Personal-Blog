@@ -354,7 +354,7 @@ export function ArgentLoopInfiniteSlider() {
                 <div className="flex items-center gap-4 pointer-events-auto">
                   <MagneticEffect>
                     <a 
-                      href="https://github.com/Arfazrll" 
+                      href="https://github.com/adityakamble69" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="custom-btn-github hover:scale-110 active:scale-95 transition-transform shadow-xl block"

@@ -686,7 +686,7 @@ export const BentoHero = ({ isLowPowerMode }: { isLowPowerMode?: boolean }) => {
           >
             This archive serves as a living documentation of technical blueprints, architectural patterns, and engineering reflections.
             All content is licensed under Creative Commons for educational use, bridging the gap between theory and implementation.
-            Interactive gallery items represent curated milestones of the engineering journey. © 2026 Arfazrll.
+            Interactive gallery items represent curated milestones of the engineering journey. © 2026 Aditya.
           </motion.p>
         </div>
       </div>
