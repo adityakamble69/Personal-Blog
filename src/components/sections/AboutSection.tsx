@@ -32,57 +32,37 @@ import { WakaTimeShowcase } from "@/components/ui/wakatime-showcase";
 import { ShowcaseStack } from "@/components/ui/showcase-stack";
 
 const showcaseMembers = [
-    // 1. Cyber Physical Systems Laboratory
-    ...portfolioData.experiences.filter(exp => exp.id === 'prof-7').map(exp => ({
+    // 1. Asterisc Technocart Pvt Ltd
+    ...portfolioData.experiences.filter(exp => exp.id === 'prof-new-1').map(exp => ({
         id: exp.id,
-        name: "Cyber Physical Systems Laboratory",
-        role: exp.position.replace(' (Contract-Based)', ''),
+        name: exp.company,
+        role: exp.position,
         description: exp.description,
-        period: "August 2025 - Present",
+        period: "January 2026 - Present",
         image: "/journey/researchassistant2.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 2. HUMIC Engineering
-    ...portfolioData.experiences.filter(exp => exp.id === 'prof-3').map(exp => ({
+    // 2. Codomax Digital Solutions
+    ...portfolioData.experiences.filter(exp => exp.id === 'prof-new-2').map(exp => ({
         id: exp.id,
-        name: "HUMIC Engineering",
+        name: exp.company,
         role: exp.position,
         description: exp.description,
-        period: "September 2025 - December 2025",
+        period: "August 2026 - Present",
         image: "/journey/aideveloperintern1.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 3. Informatics Laboratory, Telkom University
-    ...portfolioData.experiences.filter(exp => exp.id === 'prof-6').map(exp => ({
+    // 3. Techfest, IIT Bombay
+    ...portfolioData.experiences.filter(exp => exp.id === 'vol-new-1').map(exp => ({
         id: exp.id,
         name: exp.company,
-        role: exp.position.replace(' (Contract-Based)', ''),
+        role: exp.position,
         description: exp.description,
-        period: "September 2025 - January 2026",
+        period: "July 2026 - Present",
         image: "/journey/computernetworkpracticumassistant2.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 4. Digistar Club by Telkom Indonesia
-    ...portfolioData.experiences.filter(exp => exp.id === 'lead-2').map(exp => ({
-        id: exp.id,
-        name: exp.company,
-        role: exp.position,
-        description: exp.description,
-        period: "October 2025 - December 2025",
-        image: "/journey/chiefcommittee1.webp",
-        social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
-    })),
-    // 5. Food and Agriculture Office of Bandung City
-    ...portfolioData.experiences.filter(exp => exp.id === 'prof-8').map(exp => ({
-        id: exp.id,
-        name: "Food and Agriculture Office of Bandung City",
-        role: exp.position,
-        description: exp.description,
-        period: "July - September 2025",
-        image: "/journey/dataentryassistant1.webp",
-        social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
-    })),
-    // 6. View more
+    // 4. View more
     {
         id: 'view-more',
         name: 'View more',

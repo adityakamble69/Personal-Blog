@@ -15,11 +15,11 @@
             "achievements": "Achievements",
             "achievementsDesc": "Certifications, awards, and milestones",
             "skills": "Skills",
-            "skillsDesc": "Technologies and tools I use",
+            "skillsDesc": "Technologies and tools I work with",
             "experience": "Experience",
             "experienceDesc": "My professional journey and growth",
             "projects": "Projects",
-            "projectsDesc": "Showcase of all my work",
+            "projectsDesc": "A showcase of all my work",
             "blog": "Blog",
             "blogDesc": "Thoughts and technical explorations",
             "gallery": "Gallery",
@@ -36,26 +36,26 @@
     },
     "hero": {
         "greeting": "Welcome to my digital space",
-        "subtitle": "Full Stack Developer • Hackathon Team Lead • System Builder",
+        "subtitle": "Full Stack Developer • AI Engineer • Data Scientist",
         "cta": {
             "primary": "Explore Projects",
-            "secondary": "Contact Me",
+            "secondary": "Get in Touch",
             "exploreMore": "Explore More"
         },
-        "badge": "Open to opportunities",
+        "badge": "Available for opportunities",
         "scroll": "Scroll Down",
-        "role": "Full Stack Developer",
-        "description": "Building reliable systems at the intersection of <span class='text-primary font-semibold'>Full Stack Engineering</span>, <span class='text-secondary font-semibold'>Team Leadership</span>, and <span class='text-accent font-semibold'>Scalable Architecture</span>."
+        "role": "Software Engineer",
+        "description": "Building intelligent systems at the intersection of <span class='text-primary font-semibold'>AI</span>, <span class='text-secondary font-semibold'>Engineering</span>, and <span class='text-accent font-semibold'>Scalable Architecture</span>."
     },
     "about": {
         "title": "About Me",
-        "subtitle": "Builder & Problem Solver",
-        "description": "A developer passionate about building real-world full-stack systems — from business management platforms and hospital coordination tools to hackathon apps built under pressure. I lead team SyntaxSquad across hackathon competitions.",
+        "subtitle": "Tech Explorer & Problem Solver",
+        "description": "A passionate tech explorer specializing in Full Stack Development, Artificial Intelligence, and Data Science. Currently diving deep into AI Agents and Blockchain technology.",
         "stats": {
-            "experience": "Years Building",
-            "projects": "Projects Completed",
+            "experience": "Years Learning",
+            "projects": "Projects Done",
             "certifications": "Certifications",
-            "competitions": "Hackathons"
+            "competitions": "Competitions"
         },
         "identity": "Identity Link Established",
         "architecting": "Architecting",
@@ -63,62 +63,62 @@
         "leadIn": {
             "label": "WHAT I DO",
             "tagline": "CORE FOCUS",
-            "headlineAI": "Reliable Systems.",
-            "headlineData": "Scalable Architecture.",
-            "headlineSoftware": "Resilient Software Engineering",
-            "thesis": "I build <span class='text-primary italic font-serif-elegant font-normal'>full-stack platforms</span> that stay reliable at scale, from idea to production.",
-            "scope": "Focused on business management systems, real-time coordination, and automated workflows engineered for production environments and measurable performance.",
-            "bridging": "Connecting hackathon ideas with real production systems.",
-            "integration": "Beyond features, I design full-stack ecosystems: secure backends, robust databases, and scalable pipelines.",
+            "headlineAI": "Full Stack Web.",
+            "headlineData": "Scalable Interfaces.",
+            "headlineSoftware": "Modern web engineering",
+            "thesis": "I build <span class='text-primary italic font-serif-elegant font-normal'>web applications</span> and the infrastructure that keeps them fast and reliable at scale.",
+            "scope": "Focused on React and SvelteKit frontends, Node.js/Express APIs, and relational databases designed for production environments and measurable performance.",
+            "bridging": "Bridging hackathon ideas with production web apps.",
+            "integration": "Beyond UI, I architect full-stack web ecosystems: secure REST APIs, well-structured databases, and scalable deployment pipelines.",
             "signature": "Aditya",
-            "role": "Full Stack Developer & Team Lead",
+            "role": "AI, Data & Software Engineer",
             "aboutMe": "About Me",
             "scroll": "Scroll to Explore",
             "shortStory": "My Short Story"
         },
         "coreEngineering": {
             "label": "Core Engineering",
-            "title": "Proven <span class='text-primary italic font-serif font-light lowercase'>stack</span>. <br /> Measurable <span class='italic font-serif font-light text-foreground'>results</span>.",
-            "p1": "I build full-stack applications using React, SvelteKit, and Node.js/Express, structuring workflows and exposing features as secure, well-organized services.",
-            "p2": "Integrated with databases such as MySQL, PostgreSQL/Supabase, and Google Sheets (via Google Apps Script) depending on project needs.",
-            "p3": "Every project follows disciplined version control, structured documentation (PRD, architecture, phases), and is built for stable production deployment.",
-            "gpa": "Active Projects",
+            "title": "Proven <span class='text-primary italic font-serif font-light lowercase'>stack.</span> <br /> Measurable <span class='italic font-serif font-light text-foreground'>results.</span>",
+            "p1": "I develop applied AI systems using TensorFlow, Scikit-learn, and LangChain, structuring workflows and exposing models as services through Flask and FastAPI.",
+            "p2": "Integrated into full-stack apps with Next.js, Express.js, and Spring Boot, backed by PostgreSQL and Prisma ORM.",
+            "p3": "All projects use disciplined version control, Docker containerization, and are built for stable production deployment.",
+            "gpa": "Academic GPA",
             "projects": "Projects Built",
-            "years": "Years of Experience"
+            "years": "Years Exp."
         },
         "emergingResearch": {
             "label": "Exploration Phase",
-            "title": "EXPLORATION <span class='italic font-serif font-light text-primary lowercase'>&</span> EXPANSION",
+            "title": "EMERGING RESEARCH <span class='italic font-serif font-light text-primary lowercase'>&</span> EXPANSION",
             "agentic": {
-                "title": "AI-POWERED TOOLING",
-                "desc": "Exploring LLM-based chatbots and automated assistants to enhance the user experience within the full-stack applications I build."
+                "title": "AGENTIC AI SYSTEMS",
+                "desc": "Exploring autonomous agents, multi-agent orchestration, and reasoning frameworks — extending my applied AI foundation into self-directed decision-making systems."
             },
             "web3": {
-                "title": "REAL-TIME SYSTEMS",
-                "desc": "Building real-time coordination and biometric systems — including hardware integration (fingerprint bridge) with cloud backends."
+                "title": "WEB3 & BLOCKCHAIN",
+                "desc": "Building decentralized applications with Solidity and Hardhat. Currently hands-on with smart contract development through projects like the Web3 Guestbook DApp on Ethereum."
             }
         },
         "profile": {
-            "title": "Building <br class='hidden lg:block' /> Scalable Systems <br /> Where <span class='text-primary italic font-serif font-light lowercase'>Speed</span> <br /> Meets Reliability.",
+            "title": "Architecting Scalable Web Systems <br /> Where Speed Meets Reliability.",
             "narrativeLabel": "Core Narrative",
-            "narrative": "As a developer and hackathon team lead, I build systems that bridge fast ideas with production-ready implementation.",
-            "narrative2": "My work blends structured thinking, backend engineering, and scalable architecture to deliver solutions that are reliable and ready for the real world.",
+            "narrative": "As a full stack developer and hackathon team lead, I focus on building web applications that bridge fast ideas with production-ready implementation.",
+            "narrative2": "My work combines structured thinking, backend engineering, and scalable architecture to deliver solutions that are reliable and built for real-world impact.",
             "pillars": {
                 "reliable": {
                     "title": "Robust by Design",
                     "desc": "Engineered for reliability under scale and operational pressure."
                 },
                 "optimized": {
-                    "title": "Production Ready",
-                    "desc": "From hackathon prototype to deployment with engineering discipline."
+                    "title": "Production-Ready",
+                    "desc": "From prototype to deployment with engineering discipline."
                 },
                 "maintainable": {
-                    "title": "Built for Evolution",
+                    "title": "Architected for Evolution",
                     "desc": "Designed to grow, adapt, and sustain long-term system development."
                 },
                 "evolvable": {
-                    "title": "Documentation First",
-                    "desc": "Every project starts with a clear PRD, architecture, and phased plan before code is written."
+                    "title": "Data-Driven Intelligence",
+                    "desc": "Decisions powered by models, metrics, and measurable performance."
                 }
             }
         },
@@ -127,51 +127,61 @@
                 "label": "BACKGROUND",
                 "title1": "KEY",
                 "title2": "EXPERIENCE",
-                "viewMore": "All Experience"
+                "viewMore": "Full Experience"
             },
             "projects": {
                 "label": "PORTFOLIO",
-                "title1": "FEATURED",
+                "title1": "FLAGSHIP",
                 "title2": "PROJECTS",
                 "viewMore": "All Projects"
             },
             "experiencesList": [
                 {
-                    "company": "Codeline AI",
-                    "role": "FULL STACK DEVELOPER",
-                    "desc": "Built and maintain an EBMS (Employee Business Management System) on Google Apps Script — covering attendance, leave, salary slips, shift rosters, expense claims, and recruitment with email automation and e-signature."
+                    "company": "Dicoding Academy",
+                    "role": "MACHINE LEARNING CODE REVIEWER",
+                    "desc": "Technical evaluation and quality assurance of ML project submissions. Validating logical correctness, efficiency, and enforcing industry best practices for learners."
                 },
                 {
-                    "company": "SyntaxSquad (Hackathon Team)",
-                    "role": "TEAM LEAD",
-                    "desc": "Lead a team across multiple hackathon competitions, including the Urban Infrastructure Cascade Simulator — architecting the system, splitting team tasks, and preparing documentation and judge Q&A."
+                    "company": "Advanced Software Engineering Laboratory",
+                    "role": "SYSTEM ANALYST INTERN",
+                    "desc": "Translating complex requirements into SRS documentation and designing system architectures using UML diagrams. focused on software design."
                 },
                 {
-                    "company": "Freelance & Campus Projects",
-                    "role": "FULL STACK DEVELOPER",
-                    "desc": "Developed several management platforms: MedFlow (hospital resource coordination), Lifeline (blood donation camp management), and GymPro (gym management with biometric attendance)."
+                    "company": "Cyber Physical System Laboratory",
+                    "role": "RESEARCH ASSISTANT (CONTRACT)",
+                    "desc": "Developing AI-driven research products and designing learning materials for Deep Learning and Computer Vision. Contributing to intelligent systems."
+                },
+                {
+                    "company": "HUMIC Engineering Research Center",
+                    "role": "AI DEVELOPER INTERN",
+                    "desc": "Built Transformer-based attack detection models for cybersecurity applications. Managed large-scale datasets through the full ML pipeline."
+                },
+                {
+                    "company": "Cyber Physical System Laboratory",
+                    "role": "COMPUTER VISION RESEARCHER INTERN",
+                    "desc": "End-to-end development of intelligent models using state-of-the-art Deep Learning architectures. Implemented ML algorithms for real-world applications."
                 }
             ],
             "projectsList": [
                 {
-                    "title": "Urban Infrastructure Cascade Simulator",
-                    "desc": "A cascading urban infrastructure failure simulator built for hackathon problem CF26-S-03 by team SyntaxSquad — featuring a root-cause tracing engine."
+                    "title": "Creative Portfolio Website",
+                    "desc": "Modern, animated portfolio with 3D elements, physics-simulated interactions, and shader-based warp effects. Engineered for high performance & optimization."
                 },
                 {
-                    "title": "MedFlow",
-                    "desc": "A hospital resource coordination platform built with SvelteKit and Node.js/Express on Supabase/PostgreSQL — including conflict management and audit trail UI."
+                    "title": "SNBTIn - Platform Persiapan SNBT 2025",
+                    "desc": "Leading EdTech platform in Indonesia for exam preparation. Featuring a comprehensive learning ecosystem with interactive and real-time analytics."
                 },
                 {
-                    "title": "Naadify",
-                    "desc": "A glassmorphism music player for developers, built with SvelteKit and the YouTube IFrame API, featuring an iOS-style Liquid Glass UI."
+                    "title": "TerraFlow Platform",
+                    "desc": "Enterprise IoT solution for precision agriculture. ESP32 sensor nodes communicate with Firebase via a Go (Gin), with a Next.js dashboard for real-time monitoring"
                 },
                 {
-                    "title": "Lifeline",
-                    "desc": "A blood donation camp management platform with dashboards for three user roles, a public hospital directory, and full mobile responsiveness."
+                    "title": "DocsInsight Engine",
+                    "desc": "Private RAG platform for intelligent document analysis. Powered by local LLMs through Ollama, with LangChain orchestration and ChromaDB vector search."
                 },
                 {
-                    "title": "GymPro",
-                    "desc": "A gym management system with biometric fingerprint attendance, connecting a physical device to a cloud backend over a TCP bridge script."
+                    "title": "POLABDC Dental Management",
+                    "desc": "AI-powered dental clinic SaaS with disease prediction, real-time queue management, and a Monorepo architecture Next.js, Express.js, and Python"
                 }
             ],
             "discoverMore": "Discover More"
@@ -206,7 +216,7 @@
             "moreProjects": "More Projects",
             "backToProjects": "Back to Projects",
             "viewMore": "View More",
-            "viewLess": "View Less",
+            "viewLess": "Show Less",
             "solution": "Solution",
             "liveDemo": "Live Demo",
             "sourceCode": "Source Code"
@@ -219,9 +229,9 @@
             "role": "Role",
             "timeline": "Timeline",
             "team": "Team",
-            "techStack": "Technology",
-            "roleValue": "Full Stack Developer",
-            "teamValue": "Solo",
+            "techStack": "Tech Stack",
+            "roleValue": "Full Stack Dev",
+            "teamValue": "Individual",
             "techStackValue": "{count} Technologies"
         }
     },
@@ -241,8 +251,8 @@
         "year": "year",
         "years": "years",
         "type": {
-            "full-time": "Full Time",
-            "part-time": "Part Time",
+            "full-time": "Full-time",
+            "part-time": "Part-time",
             "internship": "Internship",
             "freelance": "Freelance",
             "contract": "Contract",
@@ -261,15 +271,18 @@
     },
     "expertise": {
         "title": "Core Capabilities",
-        "subtitle": "Specialization in cutting-edge technologies powering modern digital experiences",
+        "subtitle": "Specialized in cutting-edge technologies that power modern digital experiences",
         "dragHint": "Drag or scroll to explore"
     },
     "skills": {
         "title": "Skills & Tools",
-        "subtitle": "Technologies and tools I use",
-        "hard": "Technical Skills",
+        "subtitle": "Technologies and tools I work with",
+        "hard": "Hard Skills",
         "soft": "Soft Skills",
+        "technical": "Technical Proficiency",
         "tools": "Tools & Software",
+        "pillars": "Core Pillars",
+        "achievements": "Verified Achievements",
         "level": {
             "beginner": "Beginner",
             "intermediate": "Intermediate",
@@ -280,15 +293,27 @@
     "achievements": {
         "title": "Achievements",
         "subtitle": "Certifications, awards, and milestones",
+        "search": "Search achievements...",
         "viewCredential": "View Credential",
         "category": {
+            "all": "All",
             "certification": "Certification",
             "award": "Award",
-            "publication": "Publication"
+            "publication": "Publication",
+            "competition": "Competition"
+        },
+        "sort": {
+            "newest": "Newest",
+            "oldest": "Oldest"
+        },
+        "stats": {
+            "total": "Total Achievements",
+            "awards": "Awards Won",
+            "certifications": "Certifications"
         }
     },
     "contact": {
-        "title": "Contact Me",
+        "title": "Get in Touch",
         "subtitle": "Let's build something amazing together",
         "form": {
             "name": "Your Name",
@@ -313,11 +338,11 @@
             "email": "Email",
             "phone": "Phone",
             "location": "Location",
-            "availability": "Open to opportunities"
+            "availability": "Open for opportunities"
         },
         "hero": {
             "title": "LET'S TALK",
-            "subtitle": "Have an idea? Let's build something amazing together.",
+            "subtitle": "Have an idea? Let's build something extraordinary together.",
             "ticker": {
                 "build": "Let's Build Something Amazing · ",
                 "freelance": "Available for Freelance · "
@@ -325,50 +350,26 @@
         },
         "faqData": [
             {
-                "q": "What's your main area of expertise?",
-                "a": "I specialize in full-stack development — React, SvelteKit, and Node.js/Express on the frontend/backend, paired with MySQL, PostgreSQL/Supabase, and Google Apps Script depending on the project's needs."
+                "q": "What is your main area of expertise?",
+                "a": "As an Information Technology student at Telkom University and a Research Assistant at the Cyber Physical System Laboratory, I specialize in the intersection of Artificial Intelligence (Computer Vision & Deep Learning), Full-stack Development (Next.js & Node.js), and emerging Blockchain/Web3 technologies."
             },
             {
-                "q": "Are you available for hackathon or freelance collaboration?",
-                "a": "Absolutely. I actively lead team SyntaxSquad across hackathon competitions, and I'm always open to freelance projects, technical collaboration, or cross-disciplinary teamwork."
+                "q": "Are you available for research or freelance collaborations?",
+                "a": "Absolutely. I am currently active in AI research at the CPS Lab and HUMIC Research Center, but I'm always open to innovative freelance projects, internships, or technical collaborations that bridge innovation with strategic execution."
             },
             {
-                "q": "What's your typical production tech stack?",
-                "a": "For web apps, my go-to is React/Next.js or SvelteKit on the frontend, Node.js/Express on the backend, and MySQL or Supabase/PostgreSQL as the database — with structured documentation at every phase."
+                "q": "What is your typical tech stack for production?",
+                "a": "For AI projects, I primarily use Python with TensorFlow, PyTorch, and YOLO. For web applications, my go-to is the T3-style stack: Next.js, TypeScript, and Tailwind CSS, often integrated with AI Agents or Smart Contracts where appropriate."
             },
             {
-                "q": "Do you have experience with real-world management systems?",
-                "a": "Yes, I've built several full-stack management systems — from a company EBMS, to a hospital coordination platform, to a gym management system with biometric hardware integration."
+                "q": "Do you have experience with enterprise or lab projects?",
+                "a": "Yes, I've served as a System Analyst and AI Developer in various research-driven environments. I've architected everything from AIoT platforms and attack detection systems to student practicum modules for global audiences."
             },
             {
-                "q": "How do I start a partnership or project?",
-                "a": "The most efficient way is to use the contact form above or reach out directly via email. I'm usually able to respond within 24 hours to discuss how my technical skill set can add value to your initiatives."
+                "q": "How can we start a partnership or project?",
+                "a": "The most efficient way is to use the contact form above or reach out directly via email at adityakamble692006@gmail.com. I'm usually able to respond within 24 hours to discuss how my technical skill set can add value to your initiatives."
             }
         ]
-    },
-    "stats": {
-        "systemStatus": "System Status: Analytics Active",
-        "portfolio": "Engineering Metrics",
-        "totalPulse": "Total Pulse",
-        "peakActivity": "Peak Activity",
-        "dailyAverage": "Daily Average",
-        "currentSprint": "Current Sprint",
-        "engageFlow": "Engagement Flow",
-        "weeklyEffort": "Weekly Coding Effort",
-        "processSpeed": "Process Speed",
-        "avgPerf": "Average Performance",
-        "latency": "LATENCY: 14MS",
-        "system": "SYSTEM: DARWIN_X64_STABLE",
-        "scanning": "SCANNING_LIVE_RESOURCES",
-        "engineering": "ENGINEERING",
-        "metrics": "METRICS",
-        "analyticsSub": "ANALYTICS / INFRASTRUCTURE / PERFORMANCE DATA",
-        "statusOnline": "STATUS: ONLINE",
-        "loadStable": "SYSTEM_LOAD: STABLE"
-    },
-    "projectHeader": {
-        "title": "Architecting Digital Reality",
-        "subtitle": "A curated showcase of technical projects and creative engineering. Exploring the frontiers of <span class='font-bold text-foreground'>Full Stack Engineering</span>, Real-time Systems, and Immersive Web Experiences."
     },
     "footer": {
         "copyright": "All rights reserved.",
@@ -385,7 +386,7 @@
         "cta": {
             "title": "Let's Work",
             "titleHighlight": "Together",
-            "subtitle": "Have a project? Let's build something amazing that solves real problems."
+            "subtitle": "Have a project in mind? Let's build something extraordinary that solves real problems."
         },
         "links": "LINKS",
         "socials": "SOCIALS",
@@ -396,7 +397,7 @@
     "ctaSection": {
         "title": "Let's Build Something",
         "together": "Together",
-        "subtitle": "Open to strategic collaboration on scalable full-stack system development. Let's turn ambitious ideas into production-ready solutions.",
+        "subtitle": "Open to strategic collaborations in AI driven systems and scalable full Stack Engineering. Let’s transform ambitious ideas into production ready solutions.",
         "start": "Hire Me",
         "work": "View My Resume",
         "words": {
@@ -405,8 +406,32 @@
             "intelligent": "Intelligent",
             "creative": "Creative"
         },
-        "ribbon1": "React • SvelteKit • Node.js • Express • TypeScript • MySQL • PostgreSQL • Supabase • Google Apps Script • Tailwind CSS",
-        "ribbon2": "Full Stack Developer • Team Lead • Backend Developer • Frontend Developer • System Architect • Hackathon Builder • Web Developer"
+        "ribbon1": "Next.js • React • Python • PyTorch • Pandas • TypeScript • Node.js • Scikit-Learn • TensorFlow • SQL",
+        "ribbon2": "Software Engineer • AI Engineer • Data Scientist • Data Analyst • Machine Learning Engineer • Backend Developer • Full Stack Engineer • NLP Engineer • Data Engineer • Web Developer"
+    },
+    "stats": {
+        "systemStatus": "System Status: Analytics Active",
+        "portfolio": "Engineering Metrics",
+        "totalPulse": "Total Pulse",
+        "peakActivity": "Peak Activity",
+        "dailyAverage": "Daily Average",
+        "currentSprint": "Current Sprint",
+        "engageFlow": "Engage Flow",
+        "weeklyEffort": "Weekly Coding Effort",
+        "processSpeed": "Process Speed",
+        "avgPerf": "Average Performance",
+        "latency": "LATENCY: 14MS",
+        "system": "SYSTEM: DARWIN_X64_STABLE",
+        "scanning": "SCANNING_LIVE_RESOURCES",
+        "engineering": "ENGINEERING",
+        "metrics": "METRICS",
+        "analyticsSub": "ANALYTICS / INFRASTRUCTURE / PERFORMANCE DATA",
+        "statusOnline": "STATUS: ONLINE",
+        "loadStable": "SYSTEM_LOAD: STABLE"
+    },
+    "projectHeader": {
+        "title": "Architecting Digital Reality",
+        "subtitle": "A curated showcase of technical innovation and creative engineering. Exploring the frontiers of <span class='font-bold text-foreground'>Artificial Intelligence</span>, Blockchain, Data, and Immersive Web experiences."
     },
     "common": {
         "loading": "Loading...",
@@ -418,12 +443,12 @@
         "close": "Close",
         "download": "Download",
         "share": "Share",
-        "scrollAudit": "Scroll to Explore"
+        "scrollAudit": "Scroll to explore"
     },
     "technical": {
         "github": {
             "title": "GitHub Contributions",
-            "description": "My GitHub activity over the past year.",
+            "description": "My GitHub activity over the last year.",
             "total": "Total",
             "thisWeek": "This Week",
             "best": "Best",
@@ -433,24 +458,24 @@
         },
         "wakatime": {
             "title": "WakaTime Stats",
-            "description": "Coding activity over the past 7 days.",
-            "lastUpdate": "Last Update",
+            "description": "Coding activity over the last 7 days.",
+            "lastUpdate": "Last Updated",
             "startDate": "Start Date",
             "endDate": "End Date",
             "dailyAverage": "Daily Average",
             "totalWeek": "Total This Week",
             "bestDay": "Best Day",
-            "totalSince": "Total Since Joining",
+            "totalSince": "Total Since Joined",
             "topLanguages": "Top Languages"
         }
     },
     "blog": {
         "title": "Thoughts & Explorations",
-        "subtitle": "Bridging the gap between technical complexity and practical implementation. A collection of insights on full-stack engineering, hackathons, and scalable systems.",
-        "sectionBadge": "Digital Archive",
+        "subtitle": "Bridging the gap between technical complexity and practical implementation. A collection of insights on AI, Web3, and Software Engineering.",
+        "sectionBadge": "The Digital Archive",
         "search": "Search articles...",
         "readTime": "min read",
-        "readMore": "Read Article",
+        "readMore": "Read Post",
         "back": "Back to Blog",
         "noResults": "No articles found",
         "categories": {
@@ -474,18 +499,18 @@
         "title": "AI Assistant",
         "subtitle": "Ask me about Aditya",
         "placeholder": "Type a message...",
-        "greeting": "Hi! I'm the AI assistant for **{name}**. 👋\n\nI can answer questions about:\n- Skills & technical expertise\n- Projects and work\n- Work experience\n- Education\n- And more!\n\nWhat would you like to know?",
+        "greeting": "Hi! I'm an AI assistant for **{name}**. 👋\n\nI can answer questions about:\n- Skills & technical expertise\n- Projects and work\n- Experience\n- Education\n- And more!\n\nAnything you'd like to ask?",
         "suggestions": [
             "What are your main skills?",
             "Tell me about your best project",
-            "What's your work experience?",
-            "What stack do you specialize in?"
+            "What is your work experience?",
+            "What AI skills do you have?"
         ],
-        "error": "Something went wrong. Please try again.",
+        "error": "An error occurred. Please try again.",
         "invalidResponse": "Invalid response from server.",
         "unknownError": "An unknown error occurred.",
-        "retry": "Retry",
-        "inputHint": "Enter to send, Shift+Enter for new line",
+        "retry": "Try again",
+        "inputHint": "Enter to send, Shift+Enter for newline",
         "close": "Close chat"
     }
 }

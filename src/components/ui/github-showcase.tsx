@@ -25,7 +25,7 @@ import { motion, AnimatePresence, useInView, animate } from 'framer-motion';
 import { useIsInStack } from './showcase-stack';
 import { useLenis } from 'lenis/react';
 
-const GITHUB_USER = "Arfazrll";
+const GITHUB_USER = "adityakamble69";
 
 const PINNED_REPOS = [
   {
@@ -606,4 +606,3 @@ export const GitHubShowcase = () => {
     </section>
   );
 };
-

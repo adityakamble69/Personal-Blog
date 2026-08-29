@@ -16,44 +16,44 @@ interface ProjectData {
 
 const PROJECT_DATA: ProjectData[] = [
   {
-    title: "Browser Automation Agent",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&fm=webp",
-    category: "AI & Automation",
-    year: "2026",
-    description: "AI-driven browser interaction & testing engine.",
-    slug: "browser-automation-agent"
-  },
-  {
-    title: "Swarm AI Blog Writer",
-    image: "/project/swarmaiblogwriter1.webp",
-    category: "AI & Content",
-    year: "2025",
-    description: "Multi-agent orchestration for research-backed content.",
-    slug: "swarm-ai-blog-writer"
-  },
-  {
-    title: "Creative Portfolio Website",
-    image: "/project/creativeportfoliowebsite1.webp",
-    category: "Creative Tech",
-    year: "2025",
-    description: "Immersive 3D portfolio with WebGL shaders.",
-    slug: "creative-portfolio-website"
-  },
-  {
-    title: "SNBTIn Platform",
-    image: "/project/snbtinplatformpersiapansnbt20251.webp",
+    title: "LearnSphere — Online Learning Platform",
+    image: "/project/learnsphere1.webp",
     category: "EdTech",
-    year: "2025",
-    description: "Leading e-learning platform for SNBT preparation.",
-    slug: "snbtin-platform"
+    year: "2025-26",
+    description: "Full-featured LMS with courses, quizzes, and student/admin dashboards.",
+    slug: "learnsphere-online-learning-platform"
   },
   {
-    title: "Terraflow Platform",
-    image: "/project/terraflowplatform1.webp",
-    category: "IoT & Embedded",
-    year: "2025",
-    description: "Enterprise IoT solution for precision agriculture.",
-    slug: "terraflow-platform"
+    title: "ArcoCafe — Café Website",
+    image: "/project/arcocafe1.webp",
+    category: "Web Development",
+    year: "2026",
+    description: "Modern café site with online ordering, menu, gallery, and reservations.",
+    slug: "arcocafe-cafe-website"
+  },
+  {
+    title: "Lifeline — Blood Donation Camp Management Platform",
+    image: "/project/lifeline1.webp",
+    category: "Healthcare & Full Stack",
+    year: "2026",
+    description: "Donor network connecting blood donors, recipients, and donation camps.",
+    slug: "lifeline-blood-donation-camp-management-platform"
+  },
+  {
+    title: "Hackathon Team Matcher",
+    image: "/project/hackathonteammatcher1.webp",
+    category: "Web Development & Collaboration",
+    year: "2026",
+    description: "Skill-based matchmaking platform for forming hackathon teams.",
+    slug: "hackathon-team-matcher"
+  },
+  {
+    title: "Urban Infrastructure Cascade Simulator",
+    image: "/project/urbaninfrastructurecascadesimulator1.webp",
+    category: "Smart Cities & Urban Infrastructure",
+    year: "2026",
+    description: "Deterministic simulation of cascading failures across city infrastructure.",
+    slug: "urban-infrastructure-cascade-simulator"
   },
 ];
 

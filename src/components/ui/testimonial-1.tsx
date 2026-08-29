@@ -35,9 +35,9 @@ export default function Testimonial1() {
 
   const stats: StatItem[] = [
     {
-      value: 3.62,
+      value: 7.8,
       decimals: 2,
-      suffix: "/4.0",
+      suffix: "/10.0",
       label: "Current GPA",
       href: "/resume",
       cta: "View Resume",
@@ -51,7 +51,7 @@ export default function Testimonial1() {
       cta: "View Projects",
     },
     {
-      value: 2,
+      value: 1,
       decimals: 0,
       suffix: " Years",
       label: "Professional Exp",
@@ -59,7 +59,7 @@ export default function Testimonial1() {
       cta: "Explore Career",
     },
     {
-      value: 34,
+      value: 20,
       decimals: 0,
       suffix: "+",
       label: "Tech & Tools",
@@ -96,9 +96,9 @@ export default function Testimonial1() {
         {/* Main Heading with Refined Block Reveal Animation */}
         <div className="text-center max-w-5xl mx-auto relative text-neutral-900 dark:text-white px-4 space-y-1 md:space-y-2">
           {[
-            { text: "Data that speaks. AI that reasons.", color: "#6366f1", delay: 0 },
+            { text: "Interfaces that work. APIs that hold.", color: "#6366f1", delay: 0 },
             { text: "Software that ships.", color: "#10b981", delay: 0.15 },
-            { text: "Three disciplines, one engineer", color: "#f59e0b", delay: 0.3 },
+            { text: "One stack, one engineer,", color: "#f59e0b", delay: 0.3 },
             { text: "and the numbers behind the work.", color: "#ef4444", delay: 0.45 }
           ].map((line, i) => (
             <div key={i} className="relative block overflow-hidden py-1.5">
@@ -119,7 +119,7 @@ export default function Testimonial1() {
               <motion.div
                 initial={{ clipPath: i % 2 === 0 ? "inset(0 100% 0 0)" : "inset(0 0 0 100%)" }}
                 whileInView={{
-                  clipPath: i % 2 === 0 
+                  clipPath: i % 2 === 0
                     ? ["inset(0 100% 0 0)", "inset(0 0% 0 0)", "inset(0 0% 0 0)", "inset(0 0 0 100%)"]
                     : ["inset(0 0 0 100%)", "inset(0 0% 0 0)", "inset(0 0% 0 0)", "inset(0 100% 0 0)"]
                 }}
