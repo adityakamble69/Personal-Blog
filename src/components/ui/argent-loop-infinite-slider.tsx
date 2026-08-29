@@ -17,7 +17,7 @@ interface ProjectData {
 const PROJECT_DATA: ProjectData[] = [
   {
     title: "LearnSphere — Online Learning Platform",
-    image: "/project/learnsphere1.webp",
+    image: "/project/learnsphere.png",
     category: "EdTech",
     year: "2025-26",
     description: "Full-featured LMS with courses, quizzes, and student/admin dashboards.",
@@ -25,7 +25,7 @@ const PROJECT_DATA: ProjectData[] = [
   },
   {
     title: "ArcoCafe — Café Website",
-    image: "/project/arcocafe1.webp",
+    image: "/project/arcocafe.png",
     category: "Web Development",
     year: "2026",
     description: "Modern café site with online ordering, menu, gallery, and reservations.",
@@ -33,7 +33,7 @@ const PROJECT_DATA: ProjectData[] = [
   },
   {
     title: "Lifeline — Blood Donation Camp Management Platform",
-    image: "/project/lifeline1.webp",
+    image: "/project/lifelineblood.png",
     category: "Healthcare & Full Stack",
     year: "2026",
     description: "Donor network connecting blood donors, recipients, and donation camps.",
@@ -41,7 +41,7 @@ const PROJECT_DATA: ProjectData[] = [
   },
   {
     title: "Hackathon Team Matcher",
-    image: "/project/hackathonteammatcher1.webp",
+    image: "/project/hackethonteam.png",
     category: "Web Development & Collaboration",
     year: "2026",
     description: "Skill-based matchmaking platform for forming hackathon teams.",
@@ -49,7 +49,7 @@ const PROJECT_DATA: ProjectData[] = [
   },
   {
     title: "Urban Infrastructure Cascade Simulator",
-    image: "/project/urbaninfrastructurecascadesimulator1.webp",
+    image: "/project/urbaninfra.png",
     category: "Smart Cities & Urban Infrastructure",
     year: "2026",
     description: "Deterministic simulation of cascading failures across city infrastructure.",

@@ -10,7 +10,9 @@ const nextConfig: NextConfig = {
         remotePatterns: [
             { protocol: 'https', hostname: 'cdn.jsdelivr.net' },
             { protocol: 'https', hostname: 'images.unsplash.com' },
-            { protocol: 'https', hostname: 'assets.aceternity.com' }
+            { protocol: 'https', hostname: 'assets.aceternity.com' },
+            { protocol: 'https', hostname: 'cdn.simpleicons.org' },
+            { protocol: 'https', hostname: 'upload.wikimedia.org' }
         ],
         formats: ['image/avif', 'image/webp'],
     },
