@@ -29,52 +29,52 @@ const GITHUB_USER = "adityakamble69";
 
 const PINNED_REPOS = [
   {
-    name: "PersonalBlog",
-    desc: "Professional portfolio built with Next.js 15, TypeScript, and Tailwind CSS. Features 3D physics (R3F), GSAP animations, and real-time coding stats via WakaTime and GitHub APIs. Support EN/ID.",
-    stars: 67,
-    forks: 12,
-    lang: "TypeScript",
-    url: "https://github.com/Arfazrll/PersonalBlog"
+    name: "GYM-Management-2.0",
+    desc: "A gym management system to handle members, memberships, and day-to-day gym operations.",
+    stars: 2,
+    forks: 0,
+    lang: "JavaScript",
+    url: "https://github.com/adityakamble69/GYM-Management-2.0"
   },
   {
-    name: "Browser-Automation-Agent",
-    desc: "A robust CLI powering autonomous web agents. Seamlessly integrate Playwright, browser-use, and LangChain to automate your daily web workflows.",
-    stars: 10,
-    forks: 2,
+    name: "ArcoCafe",
+    desc: "A cafe ordering / management web project built with HTML.",
+    stars: 2,
+    forks: 0,
+    lang: "HTML",
+    url: "https://github.com/adityakamble69/ArcoCafe"
+  },
+  {
+    name: "AI-Medical-Report-Analyzer",
+    desc: "An AI-powered tool that analyzes medical reports and helps extract meaningful insights.",
+    stars: 2,
+    forks: 0,
     lang: "Python",
-    url: "https://github.com/Arfazrll/Browser-Automation-Agent"
+    url: "https://github.com/adityakamble69/AI-Medical-Report-Analyzer"
   },
   {
-    name: "Security-Automation-GenAI",
-    desc: "Deep Learning and Generative AI (Transformers & Attention Mechanisms) for automated cybersecurity threat detection, covering SQL Injection, DDoS, Network Intrusion, and Malware analysis.",
-    stars: 9,
-    forks: 2,
-    lang: "Jupyter Notebook",
-    url: "https://github.com/Arfazrll/Security-Automation-GenAI"
+    name: "Web-Scrap",
+    desc: "A Python-based web scraping utility for extracting and processing data from websites.",
+    stars: 2,
+    forks: 0,
+    lang: "Python",
+    url: "https://github.com/adityakamble69/Web-Scrap"
   },
   {
-    name: "POLABDC",
-    desc: "POLABDC (Pondok Labu Dental Care) Dental Clinic Management System (SaaS) powered by AI. Built with Typescript Next.js, Express, Prisma, Supabase, and Google Gemini AI for assistance.",
-    stars: 8,
-    forks: 15,
-    lang: "TypeScript",
-    url: "https://github.com/Arfazrll/POLABDC"
+    name: "Blood-Donation-Camp-Management-Platform",
+    desc: "A platform to organize and manage blood donation camps, donors, and records.",
+    stars: 2,
+    forks: 0,
+    lang: "Svelte",
+    url: "https://github.com/adityakamble69/Blood-Donation-Camp-Management-Platform"
   },
   {
-    name: "Digilibzx",
-    desc: "Modern Full-Stack Digital Library System built with Java Spring Boot and TypeScript Next.js . Features AI-powered book summarization (Gemini), smart borrowing cart, and Dockerized deployment.",
-    stars: 12,
-    forks: 2,
-    lang: "TypeScript",
-    url: "https://github.com/Arfazrll/Digilibzx"
-  },
-  {
-    name: "Swarm-Agent-Orchestrator",
-    desc: "Autonomous multi-agent content orchestration system for high-performance blog drafting and research. Powered by OpenAI Swarm architecture.",
-    stars: 10,
-    forks: 5,
-    lang: "Vue",
-    url: "https://github.com/Arfazrll/Swarm-Agent-Orchestrator"
+    name: "Hackethon-Team-Matcher",
+    desc: "A tool to help hackathon participants find and match with teammates.",
+    stars: 1,
+    forks: 0,
+    lang: "Svelte",
+    url: "https://github.com/adityakamble69/Hackethon-Team-Matcher"
   }
 ];
 
@@ -268,7 +268,7 @@ export const GitHubShowcase = () => {
           activity: parsedActivity as GitHubActivity[],
           stats: {
             followers: userData.followers || 33,
-            totalCommits: 1469,
+            totalCommits: 430,
             totalRepos: userData.public_repos || 49,
             stars: totalStars
           },
@@ -375,7 +375,7 @@ export const GitHubShowcase = () => {
             <motion.div layout className='flex flex-row gap-8 items-center'>
               <div className="flex flex-col">
                 <span className="text-3xl font-black text-[#39d353] tabular-nums tracking-tighter">
-                  <Counter value={1469} trigger={!loading} />
+                  <Counter value={430} trigger={!loading} />
                 </span>
                 <span className="text-[10px] font-black uppercase opacity-40 tracking-widest">Total Contributions</span>
               </div>
@@ -486,8 +486,6 @@ export const GitHubShowcase = () => {
                         <div className="flex flex-col items-center shrink-0 pt-2 w-full">
                           <div className="grid grid-cols-3 gap-x-8 gap-y-6 w-full px-6">
                             {[
-                              { id: "starstruck", x: 3 }, { id: "pull-shark", x: 2 },
-                              { id: "arctic-code-vault-contributor", x: 1 }, { id: "pair-extraordinaire", x: 1 },
                               { id: "quickdraw", x: 1 }, { id: "yolo", x: 1 }
                             ].map((badge, i) => (
                               <motion.div key={i} whileHover={{ scale: 1.3, rotate: -10 }} className="relative flex justify-center w-full">
