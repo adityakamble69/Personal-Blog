@@ -10,7 +10,7 @@ interface I18nProviderProps {
     timeZone?: string;
 }
 
-export function I18nProvider({ children, locale, messages, timeZone = 'Asia/Jakarta' }: I18nProviderProps) {
+export function I18nProvider({ children, locale, messages, timeZone = 'Asia/Kolkata' }: I18nProviderProps) {
     return (
         <NextIntlClientProvider locale={locale} messages={messages} timeZone={timeZone}>
             {children}

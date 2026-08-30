@@ -104,11 +104,11 @@ export function Footer() {
                 hour: 'numeric',
                 minute: '2-digit',
                 hour12: true,
-                timeZone: 'Asia/Jakarta'
+                timeZone: 'Asia/Kolkata'
             };
             const timeString = new Intl.DateTimeFormat('en-US', options).format(now);
-            // Jakarta is UTC+7
-            setLocalTime(`${timeString} UTC+7`);
+            // India is UTC+5:30
+            setLocalTime(`${timeString} UTC+5:30`);
         };
 
         updateTime();
@@ -222,7 +222,7 @@ export function Footer() {
                                             <Fragment key={social.platform}>
                                                 {social.platform === 'Twitter' && (
                                                     <motion.a
-                                                        href="https://aadii-personal-portfolio.vercel.app/"
+                                                        href="https://aadiis-portfolio.vercel.app/"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
                                                         className="p-1.5 rounded-full hover:bg-foreground/5 transition-all text-muted-foreground hover:text-foreground hover:scale-110 active:scale-95"
@@ -386,12 +386,12 @@ export function Footer() {
                                                 {localTime}
                                             </p>
                                             <a
-                                                href="https://www.google.com/maps/place/Jakarta,+Indonesia"
+                                                href="https://www.google.com/maps/place/Maharashtra,+India"
                                                 target="_blank"
                                                 rel="noopener noreferrer"
                                                 className="text-zinc-900 dark:text-white text-[1.2vw] min-text-[14px] font-medium tracking-tight hover:text-zinc-500 dark:hover:text-zinc-400 transition-colors inline-block"
                                             >
-                                                Jakarta, Indonesia
+                                                Maharashtra, India
                                             </a>
                                         </FooterColumn>
 

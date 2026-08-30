@@ -39,11 +39,11 @@ export const metadata: Metadata = {
     keywords: ['developer', 'portfolio', 'web development', 'full stack', 'react', 'nextjs'],
     authors: [{ name: 'Aditya Kamble' }],
     creator: 'Aditya Kamble',
-    metadataBase: new URL('https://aadii-personal-portfolio.vercel.app'),
+    metadataBase: new URL('https://aadiis-portfolio.vercel.app'),
     openGraph: {
         type: 'website',
         locale: 'en_US',
-        url: 'https://aadii-personal-portfolio.vercel.app',
+        url: 'https://aadiis-portfolio.vercel.app',
         title: 'Aditya Kamble | Full Stack Developer',
         description: 'A passionate developer building digital experiences that inspire.',
         siteName: 'Portfolio',

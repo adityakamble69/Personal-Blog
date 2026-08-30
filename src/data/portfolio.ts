@@ -11,7 +11,7 @@ export const portfolioData: PortfolioData = {
         email: 'adityakamble692006@gmail.com',
         phone: '+91 75584 33644',
         resumeUrl: '/resume',
-        website: 'https://aadii-personal-portfolio.vercel.app/',
+        website: 'https://aadiis-portfolio.vercel.app/',
         languages: [
             { name: 'Marathi', level: 'Native' },
             { name: 'English', level: 'Limited Working' },

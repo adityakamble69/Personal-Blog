@@ -230,7 +230,7 @@ export function HeroVisual({ isExiting = false }: { isExiting?: boolean }) {
                 <div
                   ref={zapRef}
                   className="hidden lg:block mx-[0.05em] relative cursor-pointer group"
-                  onClick={() => window.open('https://aadii-personal-portfolio.vercel.app/', '_blank')}
+                  onClick={() => window.open('https://aadiis-portfolio.vercel.app/', '_blank')}
                   onMouseEnter={(e) => setTooltip({ show: true, text: "Go to Workspace", icon: 'zap', x: e.clientX, y: e.clientY })}
                   onMouseMove={(e) => setTooltip(prev => ({ ...prev, x: e.clientX, y: e.clientY }))}
                   onMouseLeave={() => setTooltip(prev => ({ ...prev, show: false }))}
@@ -240,7 +240,7 @@ export function HeroVisual({ isExiting = false }: { isExiting?: boolean }) {
                 <div
                   ref={zapSmallRef}
                   className="block lg:hidden mx-[0.02em] relative cursor-pointer group"
-                  onClick={() => window.open('https://aadii-personal-portfolio.vercel.app/', '_blank')}
+                  onClick={() => window.open('https://aadiis-portfolio.vercel.app/', '_blank')}
                   onMouseEnter={(e) => setTooltip({ show: true, text: "Go to Workspace", icon: 'zap', x: e.clientX, y: e.clientY })}
                   onMouseMove={(e) => setTooltip(prev => ({ ...prev, x: e.clientX, y: e.clientY }))}
                   onMouseLeave={() => setTooltip(prev => ({ ...prev, show: false }))}
