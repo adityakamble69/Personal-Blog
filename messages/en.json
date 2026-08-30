@@ -351,23 +351,23 @@
         "faqData": [
             {
                 "q": "What is your main area of expertise?",
-                "a": "As an Information Technology student at Telkom University and a Research Assistant at the Cyber Physical System Laboratory, I specialize in the intersection of Artificial Intelligence (Computer Vision & Deep Learning), Full-stack Development (Next.js & Node.js), and emerging Blockchain/Web3 technologies."
+                "a": "I am a Full Stack Web Developer and UI/UX Designer. I specialize in building responsive, interactive, and high-performance web applications using React, Next.js, Svelte/SvelteKit, TypeScript, Node.js, and databases like MySQL and Supabase."
             },
             {
                 "q": "Are you available for research or freelance collaborations?",
-                "a": "Absolutely. I am currently active in AI research at the CPS Lab and HUMIC Research Center, but I'm always open to innovative freelance projects, internships, or technical collaborations that bridge innovation with strategic execution."
+                "a": "Yes! I am open to internships, full-stack web development projects, freelance work, and technical collaborations. I enjoy building clean solutions that solve real-world problems."
             },
             {
                 "q": "What is your typical tech stack for production?",
-                "a": "For AI projects, I primarily use Python with TensorFlow, PyTorch, and YOLO. For web applications, my go-to is the T3-style stack: Next.js, TypeScript, and Tailwind CSS, often integrated with AI Agents or Smart Contracts where appropriate."
+                "a": "For production-grade web applications, my go-to stack is Next.js/React, TypeScript, and Tailwind CSS on the frontend. For backend services and API design, I use Node.js/Express and Flask, integrated with MySQL or PostgreSQL (Supabase)."
             },
             {
                 "q": "Do you have experience with enterprise or lab projects?",
-                "a": "Yes, I've served as a System Analyst and AI Developer in various research-driven environments. I've architected everything from AIoT platforms and attack detection systems to student practicum modules for global audiences."
+                "a": "Yes, I have hands-on industry experience from my internships at Asterisc Technocart and Codomax Digital Solutions, where I worked on database designs, secure user authentication systems, and responsive user dashboards."
             },
             {
                 "q": "How can we start a partnership or project?",
-                "a": "The most efficient way is to use the contact form above or reach out directly via email at adityakamble692006@gmail.com. I'm usually able to respond within 24 hours to discuss how my technical skill set can add value to your initiatives."
+                "a": "The most efficient way is to use the contact form above or email me directly at adityakamble692006@gmail.com. I usually respond within 24 hours to discuss how we can work together."
             }
         ]
     },

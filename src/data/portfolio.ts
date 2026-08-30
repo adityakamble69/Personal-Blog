@@ -11,7 +11,7 @@ export const portfolioData: PortfolioData = {
         email: 'adityakamble692006@gmail.com',
         phone: '+91 75584 33644',
         resumeUrl: '/resume',
-        website: 'https://aadiiportfolio.vercel.app/',
+        website: 'https://aadii-personal-portfolio.vercel.app/',
         languages: [
             { name: 'Marathi', level: 'Native' },
             { name: 'English', level: 'Limited Working' },
@@ -3859,15 +3859,15 @@ export const portfolioData: PortfolioData = {
     faqs: [
         {
             question: 'What services do you offer?',
-            answer: 'I build full-stack web applications end to end — React/Next.js and SvelteKit on the frontend, Node.js/Express, Flask, or Google Apps Script on the backend, and MySQL, PostgreSQL/Supabase, or Google Sheets for data. I also build mobile apps with React Native and automation tools with Python.',
+            answer: 'I specialize in building responsive and scalable full-stack web applications. I design interactive frontends using React, Next.js, Svelte/SvelteKit, and Tailwind CSS, and engineer secure backends using Node.js/Express and Flask. I also configure and manage relational databases like MySQL, PostgreSQL, and Supabase.',
         },
         {
             question: 'What technologies are you exploring?',
-            answer: 'Currently exploring browser automation with Playwright, deeper AI integration (OCR + LLMs) in full-stack apps, and refining my SvelteKit and Supabase workflows.',
+            answer: 'Currently, I am focusing on advanced state management in Next.js, building modular and secure APIs, mastering Row Level Security (RLS) in Supabase, and refining my UI/UX prototyping skills in Figma.',
         },
         {
             question: 'Are you available for opportunities?',
-            answer: 'Yes! I\'m open to internships, freelance projects, and collaborations in full-stack web development, mobile apps, and automation. Feel free to reach out!',
+            answer: 'Yes! I am actively looking for web development internships, freelance full-stack projects, and collaborations. Feel free to connect via the contact form or LinkedIn!',
         },
     ],
  

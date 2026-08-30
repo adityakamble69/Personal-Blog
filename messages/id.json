@@ -351,23 +351,23 @@
         "faqData": [
             {
                 "q": "What is your main area of expertise?",
-                "a": "As an Information Technology student at Telkom University and a Research Assistant at the Cyber Physical System Laboratory, I specialize in the intersection of Artificial Intelligence (Computer Vision & Deep Learning), Full-stack Development (Next.js & Node.js), and emerging Blockchain/Web3 technologies."
+                "a": "Saya adalah Full Stack Web Developer and UI/UX Designer. Saya berspesialisasi dalam membangun aplikasi web yang responsif, interaktif, dan berkinerja tinggi menggunakan React, Next.js, Svelte/SvelteKit, TypeScript, Node.js, dan database seperti MySQL dan Supabase."
             },
             {
                 "q": "Are you available for research or freelance collaborations?",
-                "a": "Absolutely. I am currently active in AI research at the CPS Lab and HUMIC Research Center, but I'm always open to innovative freelance projects, internships, or technical collaborations that bridge innovation with strategic execution."
+                "a": "Ya! Saya terbuka untuk magang, proyek pengembangan web full-stack, pekerjaan lepas (freelance), dan kolaborasi teknis. Saya senang membangun solusi bersih yang memecahkan masalah dunia nyata."
             },
             {
                 "q": "What is your typical tech stack for production?",
-                "a": "For AI projects, I primarily use Python with TensorFlow, PyTorch, and YOLO. For web applications, my go-to is the T3-style stack: Next.js, TypeScript, and Tailwind CSS, often integrated with AI Agents or Smart Contracts where appropriate."
+                "a": "Untuk aplikasi web kelas produksi, stack andalan saya adalah Next.js/React, TypeScript, dan Tailwind CSS di frontend. Untuk layanan backend dan desain API, saya menggunakan Node.js/Express dan Flask, terintegrasi dengan MySQL atau PostgreSQL (Supabase)."
             },
             {
                 "q": "Do you have experience with enterprise or lab projects?",
-                "a": "Yes, I've served as a System Analyst and AI Developer in various research-driven environments. I've architected everything from AIoT platforms and attack detection systems to student practicum modules for global audiences."
+                "a": "Ya, saya memiliki pengalaman industri langsung dari magang saya di Asterisc Technocart dan Codomax Digital Solutions, di mana saya bekerja pada desain database, sistem autentikasi pengguna yang aman, dan dasbor pengguna yang responsif."
             },
             {
                 "q": "How can we start a partnership or project?",
-                "a": "The most efficient way is to use the contact form above or reach out directly via email at adityakamble692006@gmail.com. I'm usually able to respond within 24 hours to discuss how my technical skill set can add value to your initiatives."
+                "a": "Cara paling efisien adalah menggunakan formulir kontak di atas atau email saya langsung di adityakamble692006@gmail.com. Saya biasanya merespons dalam waktu 24 jam untuk mendiskusikan bagaimana kita dapat bekerja sama."
             }
         ]
     },
